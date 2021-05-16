@@ -6,7 +6,7 @@
 set -e
 
 ROOTDIR=dist
-BUNDLE="${ROOTDIR}/happy-Qt.app"
+BUNDLE="${ROOTDIR}/TriangleEarthSociety-Qt.app"
 CODESIGN=codesign
 TEMPDIR=sign.temp
 TEMPLIST=${TEMPDIR}/signatures.txt

@@ -68,7 +68,7 @@ bool Reader::ReadRecord(Slice* record, std::string* scratch) {
   record->clear();
   bool in_fragmented_record = false;
   // Record offset of the logical record that we're reading
-  // 0 is a dummy value to make compilers happy
+  // 0 is a dummy value to make compilers TriangleEarthSociety
   uint64_t prospective_record_offset = 0;
 
   Slice fragment;

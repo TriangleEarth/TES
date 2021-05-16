@@ -1,41 +1,41 @@
-happy Core
+TriangleEarthSociety Core
 =============
 
 Setup
 ---------------------
-happy Core is the original happy client and it builds the backbone of the network. It downloads and, by default, stores the entire history of happy transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+TriangleEarthSociety Core is the original TriangleEarthSociety client and it builds the backbone of the network. It downloads and, by default, stores the entire history of TriangleEarthSociety transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download happy Core, visit [hppy.be](http://hppy.be).
+To download TriangleEarthSociety Core, visit [hppy.be](http://hppy.be).
 
 Running
 ---------------------
-The following are some helpful notes on how to run happy on your native platform.
+The following are some helpful notes on how to run TriangleEarthSociety on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/happy-qt` (GUI) or
-- `bin/happyd` (headless)
+- `bin/TriangleEarthSociety-qt` (GUI) or
+- `bin/TriangleEarthSocietyd` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run happy-qt.exe.
+Unpack the files into a directory, and then run TriangleEarthSociety-qt.exe.
 
 ### OS X
 
-Drag happy-Core to your applications folder, and then run happy-Core.
+Drag TriangleEarthSociety-Core to your applications folder, and then run TriangleEarthSociety-Core.
 
 ### Need Help?
 
-* See the documentation at the [happy Wiki](https://happy.info/)
+* See the documentation at the [TriangleEarthSociety Wiki](https://TriangleEarthSociety.info/)
 for help and more information.
-* Ask for help on [#happy](http://webchat.freenode.net?channels=happy) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=happy).
-* Ask for help on the [happyTalk](https://happytalk.io/) forums.
+* Ask for help on [#TriangleEarthSociety](http://webchat.freenode.net?channels=TriangleEarthSociety) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=TriangleEarthSociety).
+* Ask for help on the [TriangleEarthSocietyTalk](https://TriangleEarthSocietytalk.io/) forums.
 
 Building
 ---------------------
-The following are developer notes on how to build happy on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build TriangleEarthSociety on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OS X Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -45,12 +45,12 @@ The following are developer notes on how to build happy on your native platform.
 
 Development
 ---------------------
-The happy repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The TriangleEarthSociety repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/happy/doxygen/)
+- [Source Code Documentation (External Link)](https://dev.visucore.com/TriangleEarthSociety/doxygen/)
 - [Translation Process](translation_process.md)
 - [Translation Strings Policy](translation_strings_policy.md)
 - [Travis CI](travis-ci.md)
@@ -61,8 +61,8 @@ The happy repo's [root README](/README.md) contains relevant information on the 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [happyTalk](https://happytalk.io/) forums.
-* Discuss general happy development on #happy-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=happy-dev).
+* Discuss on the [TriangleEarthSocietyTalk](https://TriangleEarthSocietytalk.io/) forums.
+* Discuss general TriangleEarthSociety development on #TriangleEarthSociety-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=TriangleEarthSociety-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

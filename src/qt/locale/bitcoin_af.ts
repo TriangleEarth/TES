@@ -62,12 +62,12 @@
         <translation>Ontvanger adresse</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u happy betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Hierdie is die adresse vanwaar u TriangleEarthSociety betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u happys sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Hierdie is die adresse waar u TriangleEarthSocietys sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,8 +168,8 @@
         <translation>Bevestig dat die beursie gekodifiseer is</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR happyS&lt;/b&gt;!</source>
-        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U happyS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TriangleEarthSocietyS&lt;/b&gt;!</source>
+        <translation>Waarskuwing: Indien u die beursie kodifiseer en u vergeet u wagwoord &lt;b&gt;VERLOOR U AL U TriangleEarthSocietyS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -330,8 +330,8 @@
         <translation>Besig met herindeksering van blokke op hardeskyf...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Stuur munte na 'n happy adres</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Stuur munte na 'n TriangleEarthSociety adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -350,8 +350,8 @@
         <translation>Maak ontfouting en diagnostiese konsole oop</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -378,12 +378,12 @@
         <translation>Kodifiseer die private sleutes wat aan jou beursie gekoppel is.</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u happy adresse om u eienaarskap te bewys</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Onderteken boodskappe met u TriangleEarthSociety adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde happy adresse</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde TriangleEarthSociety adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,8 +398,8 @@
         <translation>Orebalk</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Versoek betalings (genereer QR-kodes en happy: URI's)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Versoek betalings (genereer QR-kodes en TriangleEarthSociety: URI's)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,8 +410,8 @@
         <translation>Vertoon die lys van gebruikte ontvangers-adresse en etikette</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Skep 'n happy: URI of betalingsversoek</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Skep 'n TriangleEarthSociety: URI of betalingsversoek</translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -1012,8 +1012,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>happy Core</source>
-        <translation>happy Kern</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Kern</translation>
     </message>
     <message>
         <source>Information</source>

@@ -122,8 +122,8 @@
         <translation>Address king pamag-Tanggap</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Magpadalang barya king happy address</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Magpadalang barya king TriangleEarthSociety address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -146,8 +146,8 @@
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -322,8 +322,8 @@
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing happy client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing TriangleEarthSociety client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -397,8 +397,8 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng happy network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng TriangleEarthSociety network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -655,8 +655,8 @@
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining happy address</translation>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining TriangleEarthSociety address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -675,8 +675,8 @@
         <translation>&amp;Beripikan ing Mensayi</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling happy address</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling TriangleEarthSociety address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -752,8 +752,8 @@
         <translation>Gumana king gulut bilang daemon at tumanggap commands</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>Kapilubluban ning happy</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>Kapilubluban ning TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Block creation options:</source>

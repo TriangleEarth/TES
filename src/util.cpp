@@ -87,8 +87,8 @@
 // Application startup time (used for uptime calculation)
 const int64_t nStartupTime = GetTime();
 
-const char * const BITCOIN_CONF_FILENAME = "happy.conf";
-const char * const BITCOIN_PID_FILENAME = "happy.pid";
+const char * const BITCOIN_CONF_FILENAME = "TriangleEarthSociety.conf";
+const char * const BITCOIN_PID_FILENAME = "TriangleEarthSociety.pid";
 
 ArgsManager gArgs;
 bool fPrintToConsole = false;
@@ -505,7 +505,7 @@ static std::string FormatException(const std::exception* pex, const char* pszThr
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(nullptr, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "happy";
+    const char* pszModule = "TriangleEarthSociety";
 #endif
     if (pex)
         return strprintf(
@@ -530,7 +530,7 @@ fs::path GetDefaultDataDir()
     // Unix: ~/.bitcoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "happy";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "TriangleEarthSociety";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -540,10 +540,10 @@ fs::path GetDefaultDataDir()
         pathRet = fs::path(pszHome);
 #ifdef MAC_OSX
     // Mac
-    return pathRet / "Library/Application Support/happy";
+    return pathRet / "Library/Application Support/TriangleEarthSociety";
 #else
     // Unix
-    return pathRet / ".happy";
+    return pathRet / ".TriangleEarthSociety";
 #endif
 #endif
 }

@@ -130,8 +130,8 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Пошаљите новац на happy адресу</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Пошаљите новац на TriangleEarthSociety адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>

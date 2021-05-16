@@ -495,7 +495,7 @@ Build system:
 - `c101c76` build: Add --with-utils (bitcoin-cli and bitcoin-tx, default=yes). Help string consistency tweaks. Target sanity check fix
 - `e432a5f` build: add option for reducing exports (v2)
 - `6134b43` Fixing condition 'sabotaging' MSVC build
-- `af0bd5e` osx: fix signing to make Gatekeeper happy (again)
+- `af0bd5e` osx: fix signing to make Gatekeeper TriangleEarthSociety (again)
 - `a7d1f03` build: fix dynamic boost check when --with-boost= is used
 - `d5fd094` build: fix qt test build when libprotobuf is in a non-standard path
 - `2cf5f16` Add libbitcoinconsensus library

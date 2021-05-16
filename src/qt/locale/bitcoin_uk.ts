@@ -62,12 +62,12 @@
         <translation>Адреса отримання</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші адреси happy для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Це ваші адреси TriangleEarthSociety для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваші адреси happy для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваші адреси TriangleEarthSociety для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,7 +168,7 @@
         <translation>Підтвердіть шифрування гаманця</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR happyS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TriangleEarthSocietyS&lt;/b&gt;!</source>
         <translation>УВАГА: Якщо ви зашифруєте гаманець і забудете пароль, ви &lt;b&gt;ВТРАТИТЕ ВСІ СВОЇ БІТКОІНИ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -180,8 +180,8 @@
         <translation>Гаманець зашифровано</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your happys from being stolen by malware infecting your computer.</source>
-        <translation>%1 буде закрито зараз, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші happyи від крадіжки шкідливими програмами, у випадку якщо ваш комп'ютер буде інфіковано.</translation>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your TriangleEarthSocietys from being stolen by malware infecting your computer.</source>
+        <translation>%1 буде закрито зараз, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші TriangleEarthSocietyи від крадіжки шкідливими програмами, у випадку якщо ваш комп'ютер буде інфіковано.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -338,7 +338,7 @@
         <translation>Переіндексація блоків на диску ...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
+        <source>Send coins to a TriangleEarthSociety address</source>
         <translation>Відправити монети на вказану адресу</translation>
     </message>
     <message>
@@ -362,8 +362,8 @@
         <translation>П&amp;еревірити повідомлення...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -390,12 +390,12 @@
         <translation>Зашифрувати закриті ключі, що знаходяться у вашому гаманці</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою happy-адресою </translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою TriangleEarthSociety-адресою </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною happy-адресою</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною TriangleEarthSociety-адресою</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -414,8 +414,8 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Створити запит платежу (генерує QR-код та happy: URI)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Створити запит платежу (генерує QR-код та TriangleEarthSociety: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,16 +426,16 @@
         <translation>Показати список адрес і міток, що були використані для отримання</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Відкрити happy: URI чи запит платежу</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Відкрити TriangleEarthSociety: URI чи запит платежу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>П&amp;араметри командного рядка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to happy network</source>
-        <translation><numerusform>%n активне з'єднання з мережею happy</numerusform><numerusform>%n активні з'єднання з мережею happy</numerusform><numerusform>%n активних з'єднань з мережею happy</numerusform></translation>
+        <source>%n active connection(s) to TriangleEarthSociety network</source>
+        <translation><numerusform>%n активне з'єднання з мережею TriangleEarthSociety</numerusform><numerusform>%n активні з'єднання з мережею TriangleEarthSociety</numerusform><numerusform>%n активних з'єднань з мережею TriangleEarthSociety</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -478,7 +478,7 @@
         <translation>Синхронізовано</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible happy command-line options</source>
+        <source>Show the %1 help message to get a list with possible TriangleEarthSociety command-line options</source>
         <translation>Показати довідку %1 для отримання переліку можливих параметрів командного рядка.</translation>
     </message>
     <message>
@@ -548,7 +548,7 @@
         <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;заблоковано&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. happy can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. TriangleEarthSociety can no longer continue safely and will quit.</source>
         <translation>Сталася фатальна помилка. Помилки не сумісні з подальщою роботою. Гаманець буде закрито.</translation>
     </message>
 </context>
@@ -738,8 +738,8 @@
         <translation>Редагувати адресу для відправлення</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid happy address.</source>
-        <translation>Введена адреса "%1" не є адресою в мережі happy.</translation>
+        <source>The entered address "%1" is not a valid TriangleEarthSociety address.</source>
+        <translation>Введена адреса "%1" не є адресою в мережі TriangleEarthSociety.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -878,12 +878,12 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the happy network, as detailed below.</source>
-        <translation>Нещодавні транзакції ще не відображаються, тому баланс вашого гаманця може бути неточним. Ця інформація буде вірною після того, як ваш гаманець завершить синхронізацію з мережею happy, врахровуйте показники нижче.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the TriangleEarthSociety network, as detailed below.</source>
+        <translation>Нещодавні транзакції ще не відображаються, тому баланс вашого гаманця може бути неточним. Ця інформація буде вірною після того, як ваш гаманець завершить синхронізацію з мережею TriangleEarthSociety, врахровуйте показники нижче.</translation>
     </message>
     <message>
-        <source>Attempting to spend happys that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Спроба видправити happyи, які ще не відображаються, не буде прийнята мережею.</translation>
+        <source>Attempting to spend TriangleEarthSocietys that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Спроба видправити TriangleEarthSocietyи, які ще не відображаються, не буде прийнята мережею.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1036,7 +1036,7 @@
         <translation>&amp;Витрачати непідтверджену решту</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Автоматично відкривати порт для клієнту біткоін на роутері. Працює лише якщо ваш роутер підтримує UPnP і ця функція увімкнена.</translation>
     </message>
     <message>
@@ -1044,8 +1044,8 @@
         <translation>Відображення порту через &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the happy network through a SOCKS5 proxy.</source>
-        <translation>Підключення до мережі happy через SOCKS5 проксі.</translation>
+        <source>Connect to the TriangleEarthSociety network through a SOCKS5 proxy.</source>
+        <translation>Підключення до мережі TriangleEarthSociety через SOCKS5 проксі.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1084,8 +1084,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the happy network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Підключатися до мережі happy через окремий SOCKS5 проксі для прихованих сервісів Tor.</translation>
+        <source>Connect to the TriangleEarthSociety network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Підключатися до мережі TriangleEarthSociety через окремий SOCKS5 проксі для прихованих сервісів Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1175,8 +1175,8 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею happy після встановлення підключення, але цей процес ще не завершено.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею TriangleEarthSociety після встановлення підключення, але цей процес ще не завершено.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1276,8 +1276,8 @@
         <translation>Кількість</translation>
     </message>
     <message>
-        <source>Enter a happy address (e.g. %1)</source>
-        <translation>Введіть адресу happy (наприклад %1)</translation>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
+        <translation>Введіть адресу TriangleEarthSociety (наприклад %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1632,8 +1632,8 @@
         <translation>По&amp;вторно використати адресу для отримання (не рекомендується)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the happy network.</source>
-        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу happy.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the TriangleEarthSociety network.</source>
+        <translation>Необов'язкове повідомлення на додаток до запиту платежу, котре буде показане під час відкриття запиту. Примітка: Це повідомлення не буде відправлено з платежем через мережу TriangleEarthSociety.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1849,8 +1849,8 @@
         <translation>всього щонайменше</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for happy transactions than the network can process.</source>
-        <translation>Оплата тільки мінімальної комісії є прийнятною, допоки обсяг транзакцій є меншим простору в блоках. Але майте на увазі, що це може анулювати транзакцію, якщо попит на happy транзакції стане більшим, ніж мережа зможе обробити.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for TriangleEarthSociety transactions than the network can process.</source>
+        <translation>Оплата тільки мінімальної комісії є прийнятною, допоки обсяг транзакцій є меншим простору в блоках. Але майте на увазі, що це може анулювати транзакцію, якщо попит на TriangleEarthSociety транзакції стане більшим, ніж мережа зможе обробити.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -1968,8 +1968,8 @@
         <translation>Це звичайний платіж.</translation>
     </message>
     <message>
-        <source>The happy address to send the payment to</source>
-        <translation>Адреса happy для відправлення платежу</translation>
+        <source>The TriangleEarthSociety address to send the payment to</source>
+        <translation>Адреса TriangleEarthSociety для відправлення платежу</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1988,7 +1988,7 @@
         <translation>Видалити цей запис</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less happys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less TriangleEarthSocietys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Комісію буде знято зі вказаної суми. До отримувача надійде менше біткоінів, ніж було вказано в полі кількості. Якщо ж отримувачів декілька - комісію буде розподілено між ними.</translation>
     </message>
     <message>
@@ -2012,8 +2012,8 @@
         <translation>Введіть мітку для цієї адреси для додавання її в список використаних адрес</translation>
     </message>
     <message>
-        <source>A message that was attached to the happy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the happy network.</source>
-        <translation>Повідомлення, що було додане до happy:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу happy.</translation>
+        <source>A message that was attached to the TriangleEarthSociety: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the TriangleEarthSociety network.</source>
+        <translation>Повідомлення, що було додане до TriangleEarthSociety:URI та буде збережено разом з транзакцією для довідки. Примітка: Це повідомлення не буде відправлено в мережу TriangleEarthSociety.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2053,12 +2053,12 @@
         <translation>&amp;Підписати повідомлення</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive happys sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive TriangleEarthSocietys sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Ви можете підписувати повідомлення/угоди своїми адресами, щоб довести можливість отримання біткоінів, що будуть надіслані на них. Остерігайтеся підписувати будь-що нечітке чи неочікуване, так як за допомогою фішинг-атаки вас можуть спробувати ввести в оману для отримання вашого підпису під чужими словами. Підписуйте лише чіткі твердження, з якими ви повністю згодні.</translation>
     </message>
     <message>
-        <source>The happy address to sign the message with</source>
-        <translation>Адреса happy для підпису цього повідомлення</translation>
+        <source>The TriangleEarthSociety address to sign the message with</source>
+        <translation>Адреса TriangleEarthSociety для підпису цього повідомлення</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2089,7 +2089,7 @@
         <translation>Копіювати поточну сигнатуру до системного буферу обміну</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
     </message>
     <message>
@@ -2113,12 +2113,12 @@
         <translation>Введіть нижче адресу отримувача, повідомлення (впевніться, що ви точно скопіювали символи завершення рядка, табуляцію, пробіли тощо) та підпис для перевірки повідомлення. Впевніться, що в підпис не було додано зайвих символів: це допоможе уникнути атак типу «людина посередині». Зауважте, що це лише засвідчує можливість отримання транзакцій підписувачем, але не в стані підтвердити джерело жодної транзакції!</translation>
     </message>
     <message>
-        <source>The happy address the message was signed with</source>
-        <translation>Адреса happy, якою було підписано це повідомлення</translation>
+        <source>The TriangleEarthSociety address the message was signed with</source>
+        <translation>Адреса TriangleEarthSociety, якою було підписано це повідомлення</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною happy-адресою</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною TriangleEarthSociety-адресою</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2654,8 +2654,8 @@
         <translation>Неможливо запустити HTTP-сервер. Детальніший опис наведено в журналі зневадження.</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

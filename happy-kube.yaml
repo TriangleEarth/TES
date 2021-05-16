@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: happy
+  name: TriangleEarthSociety
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: happy
+      app: TriangleEarthSociety
   template:
     metadata:
       labels:
-        app: happy
+        app: TriangleEarthSociety
         version: v0.15
     spec:
       containers:
-      - name: happy
-        image: toolboc/happy
+      - name: TriangleEarthSociety
+        image: toolboc/TriangleEarthSociety
         ports:
         - containerPort: 35222
-          name: happy
+          name: TriangleEarthSociety
           protocol: TCP

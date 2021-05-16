@@ -1,11 +1,11 @@
 Benchmarking
 ============
 
-happy Core has an internal benchmarking framework, with benchmarks
+TriangleEarthSociety Core has an internal benchmarking framework, with benchmarks
 for cryptographic algorithms such as SHA1, SHA256, SHA512 and RIPEMD160. As well as the rolling bloom filter.
 
-After compiling happy-core, the benchmarks can be run with:
-`src/bench/bench_happy`
+After compiling TriangleEarthSociety-core, the benchmarks can be run with:
+`src/bench/bench_TriangleEarthSociety`
 
 The output will look similar to:
 ```

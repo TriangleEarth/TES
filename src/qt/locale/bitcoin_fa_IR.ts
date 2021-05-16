@@ -62,11 +62,11 @@
         <translation>آدرس‌های گیرنده</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>اینها آدرس‌های بیتکوین شما برای ارسال وجوه هستند. همیشه قبل از ارسال، مقدار و آدرس گیرنده را بررسی کنید.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>اینها آدرس‌های بیتکوین شما برای دریافت وجوه هستند. توصیه می‌شود برای هر دریافت از یک آدرس جدید استفاده کنید.</translation>
     </message>
     <message>
@@ -206,8 +206,8 @@
         <translation>دریافت آدرس ها</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>ارسال کوین به آدرس happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>ارسال کوین به آدرس TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -226,8 +226,8 @@
         <translation>تایید پیام</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -505,8 +505,8 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه happy به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه TriangleEarthSociety به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>

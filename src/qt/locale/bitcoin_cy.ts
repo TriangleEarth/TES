@@ -154,8 +154,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -640,8 +640,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>Craidd happy</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>Craidd TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Information</source>

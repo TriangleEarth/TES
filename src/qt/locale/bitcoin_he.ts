@@ -62,11 +62,11 @@
         <translation>כתובות לקבלה</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>אלו הן כתובות לייטקוין שלך לשליחת תשלומים. חשוב לבדוק את כמות הכתובות המקבלות לפני שליחת מטבעות.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>אלו הן כתובות לייטקוין שלך לקבלת תשלומים. מומלץ להשתמש בכתובת חדשה לכל העברה.</translation>
     </message>
     <message>
@@ -168,7 +168,7 @@
         <translation>אימות הצפנת הארנק</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR happyS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TriangleEarthSocietyS&lt;/b&gt;!</source>
         <translation>אזהרה: איבוד מילת הצופן לאחר הצפנת הארנק עשויה לגרום לכך &lt;b&gt;שכל הביטקוינים שלך יאבדו&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -180,7 +180,7 @@
         <translation>הארנק מוצפן</translation>
     </message>
     <message>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your happys from being stolen by malware infecting your computer.</source>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your TriangleEarthSocietys from being stolen by malware infecting your computer.</source>
         <translation>%1 ייסגר כעת כדי לסיים את תהליך ההצפנה. נא לשים לב כי הצפנת הארנק שלך לא יכול להגן על הביטקוינים שלך מפני גניבה או נוזקה שתוקפת את מחשבך.</translation>
     </message>
     <message>
@@ -338,7 +338,7 @@
         <translation>המקטעים נוספים למפתח בכונן…</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
+        <source>Send coins to a TriangleEarthSociety address</source>
         <translation>שליחת מטבעות לכתובת לייטקוין</translation>
     </message>
     <message>
@@ -362,7 +362,7 @@
         <translation>&amp;אימות הודעה…</translation>
     </message>
     <message>
-        <source>happy</source>
+        <source>TriangleEarthSociety</source>
         <translation>לייטקוין</translation>
     </message>
     <message>
@@ -390,11 +390,11 @@
         <translation>הצפנת המפתחות הפרטיים ששייכים לארנק שלך</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
         <translation>חתום על הודעות עם כתובות לייטקוין שלך כדי להוכיח שהן בבעלותך</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
         <translation>אמת הודעות כדי להבטיח שהן נחתמו עם כתובת לייטקוין מסוימות</translation>
     </message>
     <message>
@@ -414,8 +414,8 @@
         <translation>סרגל כלים לשוניות</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :happy)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :TriangleEarthSociety)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,7 +426,7 @@
         <translation>הצגת רשימת הכתובות והתוויות הנמצאות בשימוש</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
         <translation>פתיחת לייטקוין: כתובת משאב או בקשת תשלום</translation>
     </message>
     <message>
@@ -434,7 +434,7 @@
         <translation>אפשרויות &amp;שורת הפקודה</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to happy network</source>
+        <source>%n active connection(s) to TriangleEarthSociety network</source>
         <translation><numerusform>חיבור אחד פעיל לרשת לייטקוין</numerusform><numerusform>%n חיבורים פעילים לרשת לייטקוין</numerusform></translation>
     </message>
     <message>
@@ -470,7 +470,7 @@
         <translation>עדכני</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible happy command-line options</source>
+        <source>Show the %1 help message to get a list with possible TriangleEarthSociety command-line options</source>
         <translation>יש להציג את הודעת העזרה של %1 כדי להציג רשימה עם אפשרויות שורת פקודה לייטקוין</translation>
     </message>
     <message>
@@ -532,7 +532,7 @@
         <translation>הארנק &lt;b&gt;מוצפן&lt;/b&gt; ו&lt;b&gt;נעול&lt;/b&gt; כרגע</translation>
     </message>
     <message>
-        <source>A fatal error occurred. happy can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. TriangleEarthSociety can no longer continue safely and will quit.</source>
         <translation>אירעה שגיאה חמורה. אין אפשרות להשתמש עוד בלייטקוין באופן מאובטח והיישום ייסגר.</translation>
     </message>
 </context>
@@ -714,7 +714,7 @@
         <translation>עריכת כתובת השליחה</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid happy address.</source>
+        <source>The entered address "%1" is not a valid TriangleEarthSociety address.</source>
         <translation>הכתובת שהוקלדה „%1” היא אינה כתובת לייטקוין תקנית.</translation>
     </message>
     <message>
@@ -996,7 +996,7 @@
         <translation>עודף &amp;בלתי מאושר מההשקעה</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>פתיחת הפתחה של לייטקוין בנתב באופן אוטומטי. עובד רק אם UPnP מופעל ונתמך בנתב.</translation>
     </message>
     <message>
@@ -1004,7 +1004,7 @@
         <translation>מיפוי פתחה באמצעות UPnP</translation>
     </message>
     <message>
-        <source>Connect to the happy network through a SOCKS5 proxy.</source>
+        <source>Connect to the TriangleEarthSociety network through a SOCKS5 proxy.</source>
         <translation>התחבר לרשת לייטקוין דרך פרוקסי SOCKS5.</translation>
     </message>
     <message>
@@ -1123,7 +1123,7 @@
         <translation>טופס</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
         <translation>המידע המוצג עשוי להיות מיושן. הארנק שלך מסתנכרן באופן אוטומטי עם רשת לייטקוין לאחר יצירת החיבור, אך התהליך טרם הסתיים.</translation>
     </message>
     <message>
@@ -1198,8 +1198,8 @@
         <translation>שגיאת בקשת תשלום</translation>
     </message>
     <message>
-        <source>Cannot start happy: click-to-pay handler</source>
-        <translation>לא ניתן להפעיל את המקשר happy: click-to-pay</translation>
+        <source>Cannot start TriangleEarthSociety: click-to-pay handler</source>
+        <translation>לא ניתן להפעיל את המקשר TriangleEarthSociety: click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1272,7 +1272,7 @@
         <translation>כמות</translation>
     </message>
     <message>
-        <source>Enter a happy address (e.g. %1)</source>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
         <translation>נא להזין כתובת לייטקוין (למשל: %1)</translation>
     </message>
     <message>
@@ -1672,7 +1672,7 @@
         <translation>ש&amp;ימוש &amp;חוזר בכתובת קבלה קיימת (לא מומלץ)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the happy network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the TriangleEarthSociety network.</source>
         <translation>הודעת רשות לצירוף לבקשת התשלום שתוצג בעת פתיחת הבקשה. לתשומת לבך: ההודעה לא תישלח עם התשלום ברשת לייטקוין.</translation>
     </message>
     <message>
@@ -2029,7 +2029,7 @@
         <translation>תשלום של העמלה הנדרשת בלבד על סך %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid happy address</source>
+        <source>Warning: Invalid TriangleEarthSociety address</source>
         <translation>אזהרה: כתובת ביטקיון שגויה</translation>
     </message>
     <message>
@@ -2072,7 +2072,7 @@
         <translation>זהו תשלום רגיל.</translation>
     </message>
     <message>
-        <source>The happy address to send the payment to</source>
+        <source>The TriangleEarthSociety address to send the payment to</source>
         <translation>כתובת לייטקוין של המוטב</translation>
     </message>
     <message>
@@ -2092,7 +2092,7 @@
         <translation>הסרת רשומה זו</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less happys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less TriangleEarthSocietys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>העמלה תנוכה מהסכום שנשלח. הנמען יקבל פחות ביטקוינים ממה שהזנת בשדה הסכום. אם נבחרו מספר נמענים, העמלה תחולק באופן שווה.</translation>
     </message>
     <message>
@@ -2112,7 +2112,7 @@
         <translation>יש להזין תווית עבור כתובת זו כדי להוסיף אותה לרשימת הכתובות בשימוש</translation>
     </message>
     <message>
-        <source>A message that was attached to the happy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the happy network.</source>
+        <source>A message that was attached to the TriangleEarthSociety: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the TriangleEarthSociety network.</source>
         <translation>הודעה שצורפה לייטקוין: כתובת שתאוחסן בהעברה לצורך מעקב מצדך. לתשומת לבך: הודעה זו לא תישלח ברשת לייטקוין.</translation>
     </message>
     <message>
@@ -2153,7 +2153,7 @@
         <translation>חתימה על הו&amp;דעה</translation>
     </message>
     <message>
-        <source>The happy address to sign the message with</source>
+        <source>The TriangleEarthSociety address to sign the message with</source>
         <translation>כתובת לייטקוין אתה לחתום אתה את ההודעה</translation>
     </message>
     <message>
@@ -2185,7 +2185,7 @@
         <translation>העתקת החתימה הנוכחית ללוח הגזירים</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>ניתן לחתום על ההודעה כדי להוכיח שכתובת לייטקוין הזו בבעלותך.</translation>
     </message>
     <message>
@@ -2205,11 +2205,11 @@
         <translation>&amp;אימות הודעה</translation>
     </message>
     <message>
-        <source>The happy address the message was signed with</source>
+        <source>The TriangleEarthSociety address the message was signed with</source>
         <translation>כתובת לייטקוין שאתה נחתמה ההודעה</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
         <translation>ניתן לאמת את ההודעה כדי להבטיח שהיא נחתמה עם כתובת לייטקוין הנתונה</translation>
     </message>
     <message>
@@ -2714,7 +2714,7 @@
         <translation>ריצה כסוכן ברקע וקבלת פקודות</translation>
     </message>
     <message>
-        <source>happy Core</source>
+        <source>TriangleEarthSociety Core</source>
         <translation>ליבת לייטקוין</translation>
     </message>
     <message>

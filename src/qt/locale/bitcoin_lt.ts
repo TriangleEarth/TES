@@ -162,8 +162,8 @@
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Siųsti monetas happy adresui</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Siųsti monetas TriangleEarthSociety adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -186,8 +186,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -432,8 +432,8 @@
         <translation>Piniginė</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti happy kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti TriangleEarthSociety kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -865,7 +865,7 @@
         <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -881,8 +881,8 @@
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas happy adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas TriangleEarthSociety adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -958,8 +958,8 @@
         <translation>Dirbti fone kaip šešėlyje ir priimti komandas</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy branduolys</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety branduolys</translation>
     </message>
     <message>
         <source>Error opening block database</source>

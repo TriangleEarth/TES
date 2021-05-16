@@ -1,9 +1,9 @@
 FROM ubuntu:18.04
 
-COPY ./happy.conf /root/.happy/happy.conf
+COPY ./TriangleEarthSociety.conf /root/.TriangleEarthSociety/TriangleEarthSociety.conf
 
-COPY . /happy
-WORKDIR /happy
+COPY . /TriangleEarthSociety
+WORKDIR /TriangleEarthSociety
 
 #shared libraries and dependencies
 RUN apt update
@@ -23,7 +23,7 @@ RUN apt-get install -y libminiupnpc-dev
 #ZMQ
 RUN apt-get install -y libzmq3-dev
 
-#build happy source
+#build TriangleEarthSociety source
 RUN ./autogen.sh
 RUN ./configure
 RUN make
@@ -32,4 +32,4 @@ RUN make install
 #open service port
 EXPOSE 35222
 
-CMD ["happyd", "--printtoconsole"]
+CMD ["TriangleEarthSocietyd", "--printtoconsole"]

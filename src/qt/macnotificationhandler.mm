@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.happy.happy-Qt";
+        return @"org.TriangleEarthSociety.TriangleEarthSociety-Qt";
     } else {
         return [self __bundleIdentifier];
     }

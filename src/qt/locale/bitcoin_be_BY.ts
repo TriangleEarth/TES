@@ -62,12 +62,12 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Тут знаходзяцца happy-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Тут знаходзяцца TriangleEarthSociety-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Тут знаходзяцца happy-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Тут знаходзяцца TriangleEarthSociety-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,7 +168,7 @@
         <translation>Пацвердзіце шыфраванне гаманца</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR happyS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TriangleEarthSocietyS&lt;/b&gt;!</source>
         <translation>Увага: калі вы зашыфруеце свой гаманец і страціце парольную фразу, то &lt;b&gt;СТРАЦІЦЕ ЎСЕ СВАЕ БІТКОЙНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -298,8 +298,8 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Даслаць манеты на happy-адрас</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Даслаць манеты на TriangleEarthSociety-адрас</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -322,8 +322,8 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -350,12 +350,12 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Падпісаць паведамленне з дапамогай happy-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Падпісаць паведамленне з дапамогай TriangleEarthSociety-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Спраўдзіць паведамленне з дапамогай happy-адраса каб даказаць, што яно належыць вам</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Спраўдзіць паведамленне з дапамогай TriangleEarthSociety-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -370,8 +370,8 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Запатрабаваць плацёж (генеруецца QR-код для happy URI)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Запатрабаваць плацёж (генеруецца QR-код для TriangleEarthSociety URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -382,8 +382,8 @@
         <translation>Паказаць спіс адрасоў і метак для прымання</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Адкрыць happy: URI ці запыт плацяжу</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Адкрыць TriangleEarthSociety: URI ці запыт плацяжу</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1258,8 +1258,8 @@
         <translation>Запусціць у фоне як дэман і прымаць каманды</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

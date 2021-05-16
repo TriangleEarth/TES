@@ -54,10 +54,10 @@ static int AppInitRawTx(int argc, char* argv[])
     if (argc<2 || gArgs.IsArgSet("-?") || gArgs.IsArgSet("-h") || gArgs.IsArgSet("-help"))
     {
         // First part of help message is specific to this utility
-        std::string strUsage = strprintf(_("%s happy-tx utility version"), _(PACKAGE_NAME)) + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = strprintf(_("%s TriangleEarthSociety-tx utility version"), _(PACKAGE_NAME)) + " " + FormatFullVersion() + "\n\n" +
             _("Usage:") + "\n" +
-              "  happy-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded happy transaction") + "\n" +
-              "  happy-tx [options] -create [commands]   " + _("Create hex-encoded happy transaction") + "\n" +
+              "  TriangleEarthSociety-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded TriangleEarthSociety transaction") + "\n" +
+              "  TriangleEarthSociety-tx [options] -create [commands]   " + _("Create hex-encoded TriangleEarthSociety transaction") + "\n" +
               "\n";
 
         fprintf(stdout, "%s", strUsage.c_str());

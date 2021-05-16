@@ -14,8 +14,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     </context>
 <context>
@@ -156,8 +156,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>happy Core</source>
-        <translation>happy Jezrga</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Jezrga</translation>
     </message>
     </context>
 </TS>

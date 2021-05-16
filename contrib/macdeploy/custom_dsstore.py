@@ -45,8 +45,8 @@ alias = Alias.from_bytes(icvp['backgroundImageAlias'])
 alias.volume.name = package_name_ns
 alias.volume.posix_path = '/Volumes/' + package_name_ns
 alias.volume.disk_image_alias.target.filename = package_name_ns + '.temp.dmg'
-alias.volume.disk_image_alias.target.carbon_path = 'Macintosh HD:Users:\x00happyuser:\x00Documents:\x00happy:\x00happy:\x00' + package_name_ns + '.temp.dmg'
-alias.volume.disk_image_alias.target.posix_path = 'Users/happyuser/Documents/happy/happy/' + package_name_ns + '.temp.dmg'
+alias.volume.disk_image_alias.target.carbon_path = 'Macintosh HD:Users:\x00TriangleEarthSocietyuser:\x00Documents:\x00TriangleEarthSociety:\x00TriangleEarthSociety:\x00' + package_name_ns + '.temp.dmg'
+alias.volume.disk_image_alias.target.posix_path = 'Users/TriangleEarthSocietyuser/Documents/TriangleEarthSociety/TriangleEarthSociety/' + package_name_ns + '.temp.dmg'
 alias.target.carbon_path = package_name_ns + ':.background:\x00background.tiff'
 icvp['backgroundImageAlias'] = biplist.Data(alias.to_bytes())
 ds['.']['icvp'] = icvp
@@ -54,7 +54,7 @@ ds['.']['icvp'] = icvp
 ds['.']['vSrn'] = ('long', 1)
 
 ds['Applications']['Iloc'] = (370, 156)
-ds['happy-Qt.app']['Iloc'] = (128, 156)
+ds['TriangleEarthSociety-Qt.app']['Iloc'] = (128, 156)
 
 ds.flush()
 ds.close()

@@ -1,7 +1,7 @@
-Contributing to happy Core
+Contributing to TriangleEarthSociety Core
 ============================
 
-The happy Core project operates an open contributor model where anyone is
+The TriangleEarthSociety Core project operates an open contributor model where anyone is
 welcome to contribute towards development in the form of peer review, testing
 and patches. This document explains the practical process and guidelines for
 contributing.
@@ -157,10 +157,10 @@ where possible keep them short, uncomplex and easy to verify.
 "Decision Making" Process
 -------------------------
 
-The following applies to code changes to the happy Core project, and is not to be confused with overall happy
+The following applies to code changes to the TriangleEarthSociety Core project, and is not to be confused with overall TriangleEarthSociety
 Network Protocol consensus changes.
 
-Whether a pull request is merged into happy Core rests with the project merge
+Whether a pull request is merged into TriangleEarthSociety Core rests with the project merge
 maintainers and ultimately the project lead.
 
 Maintainers will take into consideration if a patch is in line with the general
@@ -178,7 +178,7 @@ In general, all pull requests must:
   - Where bugs are fixed, where possible, there should be unit tests
     demonstrating the bug and also proving the fix. This helps prevent regression.
 
-Patches that change happy consensus rules are considerably more involved than
+Patches that change TriangleEarthSociety consensus rules are considerably more involved than
 normal because they affect the entire ecosystem and so must be preceded by
 extensive mailing list discussions and have a numbered BIP. While each case will
 be different, one should be prepared to expend more time and effort than for
@@ -219,7 +219,7 @@ higher in terms of discussion and peer review requirements, keeping in mind that
 mistakes could be very costly to the wider community. This includes refactoring
 of consensus critical code.
 
-Where a patch set proposes to change the happy consensus, it must have been
+Where a patch set proposes to change the TriangleEarthSociety consensus, it must have been
 discussed extensively on the mailing list and IRC, be accompanied by a widely
 discussed BIP and have a generally widely perceived technical consensus of being
 a worthwhile change based on the judgement of the maintainers.
@@ -259,11 +259,11 @@ about:
 Release Policy
 --------------
 
-The project leader is the release manager for each happy Core release.
+The project leader is the release manager for each TriangleEarthSociety Core release.
 
 Copyright
 ---------
-Copyright 2017 The happy Core Developers
+Copyright 2017 The TriangleEarthSociety Core Developers
 
 - bitcoin: Copyright (c) 2009-2017 Bitcoin Core Developers (MIT License)
 

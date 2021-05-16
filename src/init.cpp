@@ -525,7 +525,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/happy-project/happy>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/TriangleEarthSociety-project/TriangleEarthSociety>";
     const std::string URL_WEBSITE = "<https://hppy.be>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
@@ -815,7 +815,7 @@ void InitLogging()
     fLogIPs = gArgs.GetBoolArg("-logips", DEFAULT_LOGIPS);
 
     LogPrintf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
-    LogPrintf("happy version %s\n", FormatFullVersion());
+    LogPrintf("TriangleEarthSociety version %s\n", FormatFullVersion());
 }
 
 namespace { // Variables internal to initialization process only

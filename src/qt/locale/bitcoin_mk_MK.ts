@@ -138,7 +138,7 @@
         <translation>Повторно индексирање на блокови од дискот...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
+        <source>Send coins to a TriangleEarthSociety address</source>
         <translation>Испрати биткоини на Биткоин адреса</translation>
     </message>
     <message>
@@ -146,7 +146,7 @@
         <translation>&amp;Потврди порака...</translation>
     </message>
     <message>
-        <source>happy</source>
+        <source>TriangleEarthSociety</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -578,7 +578,7 @@
         <translation>Опции:</translation>
     </message>
     <message>
-        <source>happy Core</source>
+        <source>TriangleEarthSociety Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>

@@ -127,10 +127,10 @@ public:
         vSeeds.emplace_back("104.41.227.200", true);
         vSeeds.emplace_back("40.83.18.120", true);
         vSeeds.emplace_back("85.83.142.98", true);
-        //vSeeds.emplace_back("seed-a.happy.loshan.co.uk", true);
+        //vSeeds.emplace_back("seed-a.TriangleEarthSociety.loshan.co.uk", true);
         //vSeeds.emplace_back("dnsseed.thrasher.io", true);
-        //vSeeds.emplace_back("dnsseed.happytools.com", true);
-        //vSeeds.emplace_back("dnsseed.happypool.org", true);
+        //vSeeds.emplace_back("dnsseed.TriangleEarthSocietytools.com", true);
+        //vSeeds.emplace_back("dnsseed.TriangleEarthSocietypool.org", true);
         //vSeeds.emplace_back("dnsseed.koin-project.com", false);
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,40);
@@ -236,8 +236,8 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
-        vSeeds.emplace_back("testnet-seed.happytools.com", true);
-        vSeeds.emplace_back("seed-b.happy.loshan.co.uk", true);
+        vSeeds.emplace_back("testnet-seed.TriangleEarthSocietytools.com", true);
+        vSeeds.emplace_back("seed-b.TriangleEarthSociety.loshan.co.uk", true);
         vSeeds.emplace_back("dnsseed-testnet.thrasher.io", true);
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);

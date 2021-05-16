@@ -53,7 +53,7 @@ on Windows (that is /Users/(user name)/AppData/Roaming/Bitcoin on
 Windows Vista and 7 and /Documents and Settings/(user name)/Application
 Data/Bitcoin on Windows XP).  Once you have copied that file to a
 safe location, reopen the Bitcoin client and Encrypt your wallet.
-If everything goes fine, delete the backup and enjoy your encrypted
+If everything goes fine, delete the backup and ensinus your encrypted
 wallet.  Note that once you encrypt your wallet, you will never be
 able to go back to a version of the Bitcoin client older than 0.4.
 

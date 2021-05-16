@@ -39,11 +39,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Izvēlies adresi uz kuru sūtīt happys</translation>
+        <translation>Izvēlies adresi uz kuru sūtīt TriangleEarthSocietys</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Izvēlies adresi ar kuru saņemt happys</translation>
+        <translation>Izvēlies adresi ar kuru saņemt TriangleEarthSocietys</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -202,8 +202,8 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Nosūtīt bitkoinus uz happy adresi</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Nosūtīt bitkoinus uz TriangleEarthSociety adresi</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -226,8 +226,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -254,12 +254,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām happy adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām TriangleEarthSociety adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām happy adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām TriangleEarthSociety adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -278,12 +278,12 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un happy: URIs)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un TriangleEarthSociety: URIs)</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Atvērt happy URI vai maksājuma pieprasījumu</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Atvērt TriangleEarthSociety URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -563,15 +563,15 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt happy &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt TriangleEarthSociety &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt happy klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt TriangleEarthSociety klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -623,7 +623,7 @@
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt happy kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt TriangleEarthSociety kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -657,8 +657,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar happy tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar TriangleEarthSociety tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -932,7 +932,7 @@
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>happy Kontroles Funkcijas</translation>
+        <translation>TriangleEarthSociety Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1111,8 +1111,8 @@
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs happy adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs TriangleEarthSociety adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1228,8 +1228,8 @@
         <translation>Darbināt fonā kā servisu un pieņemt komandas</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

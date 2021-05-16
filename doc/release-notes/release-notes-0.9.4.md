@@ -70,7 +70,7 @@ Build system:
 - `f047dfa` gitian: openssl-1.0.1i.tar.gz -> openssl-1.0.1k.tar.gz
 - `5b9f78d` build: Fix OSX build when using Homebrew and qt5
 - `ffab1dd` Keep symlinks when copying into .app bundle
-- `613247f` osx: fix signing to make Gatekeeper happy (again)
+- `613247f` osx: fix signing to make Gatekeeper TriangleEarthSociety (again)
 
 Miscellaneous:
 - `25b49b5` Refactor -alertnotify code

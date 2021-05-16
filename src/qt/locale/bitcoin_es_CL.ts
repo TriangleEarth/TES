@@ -142,8 +142,8 @@
         <translation>Cargando el index de bloques...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Enviar monedas a una dirección happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Enviar monedas a una dirección TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -166,8 +166,8 @@
         <translation>Verificar mensaje....</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -186,7 +186,7 @@
         <translation>&amp;Mostrar/Ocultar</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -206,8 +206,8 @@
         <translation>Barra de pestañas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Pide pagos (genera codigos QR and happy: URls)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Pide pagos (genera codigos QR and TriangleEarthSociety: URls)</translation>
     </message>
     <message>
         <source>Error</source>
@@ -363,8 +363,8 @@
         <translation>experto</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente happy en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente TriangleEarthSociety en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -687,7 +687,7 @@
         <translation>Firma</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -772,8 +772,8 @@
 </translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety core</translation>
     </message>
     <message>
         <source>Error loading block database</source>

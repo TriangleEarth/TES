@@ -190,8 +190,8 @@
         <translation>დისკზე ბლოკების რეინდექსაცია...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>მონეტების გაგზავნა happy-მისამართზე</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>მონეტების გაგზავნა TriangleEarthSociety-მისამართზე</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -214,8 +214,8 @@
         <translation>&amp;ვერიფიკაცია</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -242,12 +242,12 @@
         <translation>თქვენი საფულის პირადი გასაღებების დაშიფრვა</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>მესიჯებზე ხელმოწერა თქვენი happy-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>მესიჯებზე ხელმოწერა თქვენი TriangleEarthSociety-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული happy-მისამართით</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული TriangleEarthSociety-მისამართით</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -266,8 +266,8 @@
         <translation>ბარათების პანელი</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და happy: ბმულები)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და TriangleEarthSociety: ბმულები)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -278,8 +278,8 @@
         <translation>გამოყენებული მიღების მისამართებისა და ნიშნულების სიის ჩვენება</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>happy: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>TriangleEarthSociety: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -642,8 +642,8 @@
         <translation>დაუდასტურებელი ხურდის გამოყენების აკრძალვის შემდეგ მათი გამოყენება შეუძლებელი იქნება, სანამ ტრანსაქციას არ ექნება ერთი დასტური მაინც. ეს აისახება თქვენი ნაშთის დათვლაზეც.</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>როუტერში happy-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>როუტერში TriangleEarthSociety-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -749,8 +749,8 @@
         <translation>ფორმა</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება happy-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება TriangleEarthSociety-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -954,7 +954,7 @@
         <translation>ად&amp;რე გამოყენებული მიღების მისამართის გამოყენება (არ არის რეკომენდებული)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the happy network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the TriangleEarthSociety network.</source>
         <translation>არააუცილებელი მესიჯი, რომელიც ერთვის გადახდის მოთხოვნას და ნაჩვენები იქნება მოთხოვნის გახსნისას. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1170,7 +1170,7 @@
         <translation>შეიყვანეთ ამ მისამართის ნიშნული გამოყენებული მისამართების სიაში დასამატებლად</translation>
     </message>
     <message>
-        <source>A message that was attached to the happy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the happy network.</source>
+        <source>A message that was attached to the TriangleEarthSociety: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the TriangleEarthSociety network.</source>
         <translation>მესიჯი, რომელიც თან ერთვის მონეტებს:  URI, რომელიც შეინახება ტრანსაქციასთან ერთად თქვენთვის. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1231,7 +1231,7 @@
         <translation>მიმდინარე ხელმოწერის კოპირება კლიპბორდში</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>მოაწერეთ ხელი იმის დასადასტურებლად, რომ ეს მისამართი თქვენია</translation>
     </message>
     <message>
@@ -1251,8 +1251,8 @@
         <translation>მესიჯის &amp;ვერიფიკაცია</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული happy-მისამართით</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული TriangleEarthSociety-მისამართით</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1336,8 +1336,8 @@
         <translation>რეზიდენტულად გაშვება და კომანდების მიღება</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -202,8 +202,8 @@
         <translation>Poustvarjam kazalo blokov na disku ...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Izvedite plačilo na naslov happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Izvedite plačilo na naslov TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -226,8 +226,8 @@
         <translation>&amp;Preveri sporočilo ...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -254,12 +254,12 @@
         <translation>Šifrirajte zasebne ključe, ki se nahajajo v denarnici</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Podpišite poljubno sporočilo z enim svojih naslovov happy, da prejemniku sporočila dokažete, da je ta naslov v vaši lasti.</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Podpišite poljubno sporočilo z enim svojih naslovov TriangleEarthSociety, da prejemniku sporočila dokažete, da je ta naslov v vaši lasti.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Preverite, če je bilo prejeto sporočilo podpisano z določenim naslovom happy</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Preverite, če je bilo prejeto sporočilo podpisano z določenim naslovom TriangleEarthSociety</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -278,8 +278,8 @@
         <translation>Orodna vrstica zavihkov</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Zahtevajte plačilo (ustvarite zahtevek s kodo QR in URI tipa happy:)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Zahtevajte plačilo (ustvarite zahtevek s kodo QR in URI tipa TriangleEarthSociety:)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -290,16 +290,16 @@
         <translation>Preglejte in uredite seznam naslovov, na katere ste kdaj prejeli plačila</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Izvedite plačilo iz zahtevka v datoteki ali iz URI tipa happy:</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Izvedite plačilo iz zahtevka v datoteki ali iz URI tipa TriangleEarthSociety:</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcije &amp;ukazne vrstice</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to happy network</source>
-        <translation><numerusform>%n aktivna povezava v omrežje happy</numerusform><numerusform>%n aktivni povezavi v omrežje happy</numerusform><numerusform>%n aktivne povezave v omrežje happy</numerusform><numerusform>%n aktivnih povezav v omrežje happy</numerusform></translation>
+        <source>%n active connection(s) to TriangleEarthSociety network</source>
+        <translation><numerusform>%n aktivna povezava v omrežje TriangleEarthSociety</numerusform><numerusform>%n aktivni povezavi v omrežje TriangleEarthSociety</numerusform><numerusform>%n aktivne povezave v omrežje TriangleEarthSociety</numerusform><numerusform>%n aktivnih povezav v omrežje TriangleEarthSociety</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -712,7 +712,7 @@
         <translation>Omogoči &amp;trošenje drobiža iz še nepotrjenih plačil</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Program samodejno odpre ustrezna vrata na usmerjevalniku. To deluje samo, če vaš usmerjevalnik podpira in ima omogočen UPnP.</translation>
     </message>
     <message>
@@ -720,8 +720,8 @@
         <translation>Preslikaj vrata z uporabo &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the happy network through a SOCKS5 proxy.</source>
-        <translation>Poveži se v omrežje happy preko posredniškega strežnika SOCKS5.</translation>
+        <source>Connect to the TriangleEarthSociety network through a SOCKS5 proxy.</source>
+        <translation>Poveži se v omrežje TriangleEarthSociety preko posredniškega strežnika SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -823,8 +823,8 @@
         <translation>Oblika</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatki so morda zastareli. Program ob vzpostavitvi povezave samodejno sinhronizira denarnico z omrežjem happy, a trenutno ta proces še ni zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatki so morda zastareli. Program ob vzpostavitvi povezave samodejno sinhronizira denarnico z omrežjem TriangleEarthSociety, a trenutno ta proces še ni zaključen.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -912,8 +912,8 @@
         <translation>Znesek</translation>
     </message>
     <message>
-        <source>Enter a happy address (e.g. %1)</source>
-        <translation>Vnesite naslov happy (npr. %1):</translation>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
+        <translation>Vnesite naslov TriangleEarthSociety (npr. %1):</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1176,8 +1176,8 @@
         <translation>P&amp;onovno uporabite obstoječ naslov za prejemanje. (Ni priporočeno.)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the happy network.</source>
-        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja happy tega sporočila ne bo vsebovalo.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the TriangleEarthSociety network.</source>
+        <translation>Neobvezno sporočilo kot priponka zahtevku za plačilo, ki bo prikazano, ko bo zahtevek odprt. Opomba: Opravljeno plačilo.prek omrežja TriangleEarthSociety tega sporočila ne bo vsebovalo.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1345,7 +1345,7 @@
         <translation>skupno vsaj</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for happy transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for TriangleEarthSociety transactions than the network can process.</source>
         <translation>Dokler bo v blokih še dovolj prostora za vse nastajajoče transakcije, zadostuje, če plačate samo minimalno provizijo. Ko pa se bo količina vseh transakcij povečala do meja zmogljivosti omrežja, se lahko zgodi, da vaša transakcija brez večje provizije nikoli ne bo potrjena.</translation>
     </message>
     <message>
@@ -1432,8 +1432,8 @@
         <translation>Plačilo je navadne vrste.</translation>
     </message>
     <message>
-        <source>The happy address to send the payment to</source>
-        <translation>Naslov happy, na katerega bo plačilo poslano</translation>
+        <source>The TriangleEarthSociety address to send the payment to</source>
+        <translation>Naslov TriangleEarthSociety, na katerega bo plačilo poslano</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1452,7 +1452,7 @@
         <translation>Izpraznite vsebino polja</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less happys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less TriangleEarthSocietys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>Znesek plačila bo zmanjšan za znesek provizije. Prejemnik bo prejel manjše število kovancev, kot je bil vnešeni znesek. Če je prejemnikov več, bo provizija med njih enakomerno porazdeljena.</translation>
     </message>
     <message>
@@ -1476,8 +1476,8 @@
         <translation>Če vnesete oznako za zgornji naslov, se bo skupaj z naslovom shranila v imenk že uporabljenih naslovov</translation>
     </message>
     <message>
-        <source>A message that was attached to the happy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the happy network.</source>
-        <translation>Sporočilo, ki ste ga pripeli na URI tipa happy:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja happy.</translation>
+        <source>A message that was attached to the TriangleEarthSociety: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the TriangleEarthSociety network.</source>
+        <translation>Sporočilo, ki ste ga pripeli na URI tipa TriangleEarthSociety:. Shranjeno bo skupaj s podatki o transakciji. Opomba: Sporočilo ne bo poslano preko omrežja TriangleEarthSociety.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1509,12 +1509,12 @@
         <translation>&amp;Podpiši sporočilo</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive happys sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive TriangleEarthSocietys sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>S svojimi naslovi lahko podpisujete sporočila ali pogodbe in s tem dokazujete, da na teh naslovih lahko prejemate kovance. Bodite previdni in ne podpisujte ničesar nejasnega ali naključnega, ker vas zlikovci preko ribarjenja (phishing) lahko prelisičijo, da na njih prepišete svojo identiteto. Podpisujte samo podrobno opisane izjave, s katerimi se strinjate.</translation>
     </message>
     <message>
-        <source>The happy address to sign the message with</source>
-        <translation>Naslov happy, s katerim podpisujete sporočilo</translation>
+        <source>The TriangleEarthSociety address to sign the message with</source>
+        <translation>Naslov TriangleEarthSociety, s katerim podpisujete sporočilo</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1545,7 +1545,7 @@
         <translation>Kopiranje trenutnega podpisa na sistemsko odložišče.</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>Podpišite sporočilo, da dokažete lastništvo nad zgornjim naslovom.</translation>
     </message>
     <message>
@@ -1569,12 +1569,12 @@
         <translation>Da preverite verodostojnost sporočila, spodaj vnesite: prejemnikov naslov, prejeto sporočilo (pazljivo skopirajte vse prelome vrstic, presledke, tabulatorje ipd.,) in prejeti podpis. Da se izognete napadom tipa man-in-the-middle, vedite, da iz veljavnega podpisa ne sledi nič drugega, kot tisto, kar je navedeno v sporočilu. Podpis samo potrjuje dejstvo, da ima podpisnik v lasti prejemni naslov, ne more pa dokazati vira nobene transakcije!</translation>
     </message>
     <message>
-        <source>The happy address the message was signed with</source>
-        <translation>Naslov happy, s katerim je bilo sporočilo podpisano</translation>
+        <source>The TriangleEarthSociety address the message was signed with</source>
+        <translation>Naslov TriangleEarthSociety, s katerim je bilo sporočilo podpisano</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom happy.</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Preverite, ali je bilo sporočilo v resnici podpisano z navedenim naslovom TriangleEarthSociety.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1682,8 +1682,8 @@
         <translation>Teci v ozadju in sprejemaj ukaze</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

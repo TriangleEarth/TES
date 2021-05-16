@@ -24,17 +24,17 @@ If you want to build the disk image with `make deploy` (.dmg / optional), you ne
 
 NOTE: Building with Qt4 is still supported, however, could result in a broken UI. Building with Qt5 is recommended.
 
-Build happy Core
+Build TriangleEarthSociety Core
 ------------------------
 
-1. Clone the happy source code and cd into `happy`
+1. Clone the TriangleEarthSociety source code and cd into `TriangleEarthSociety`
 
-        git clone https://github.com/happy-project/happy
-        cd happy
+        git clone https://github.com/TriangleEarthSociety-project/TriangleEarthSociety
+        cd TriangleEarthSociety
 
-2.  Build happy-core:
+2.  Build TriangleEarthSociety-core:
 
-    Configure and build the headless happy binaries as well as the GUI (if Qt is found).
+    Configure and build the headless TriangleEarthSociety binaries as well as the GUI (if Qt is found).
 
     You can disable the GUI build by passing `--without-gui` to configure.
 
@@ -53,37 +53,37 @@ Build happy Core
 Running
 -------
 
-happy Core is now available at `./src/happyd`
+TriangleEarthSociety Core is now available at `./src/TriangleEarthSocietyd`
 
 Before running, it's recommended you create an RPC configuration file.
 
-    echo -e "rpcuser=happyrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/happy/happy.conf"
+    echo -e "rpcuser=TriangleEarthSocietyrpc\nrpcpassword=$(xxd -l 16 -p /dev/urandom)" > "/Users/${USER}/Library/Application Support/TriangleEarthSociety/TriangleEarthSociety.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/happy/happy.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/TriangleEarthSociety/TriangleEarthSociety.conf"
 
-The first time you run happyd, it will start downloading the blockchain. This process could take several hours.
+The first time you run TriangleEarthSocietyd, it will start downloading the blockchain. This process could take several hours.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/happy/debug.log
+    tail -f $HOME/Library/Application\ Support/TriangleEarthSociety/debug.log
 
 Other commands:
 -------
 
-    ./src/happyd -daemon # Starts the happy daemon.
-    ./src/happy-cli --help # Outputs a list of command-line options.
-    ./src/happy-cli help # Outputs a list of RPC commands when the daemon is running.
+    ./src/TriangleEarthSocietyd -daemon # Starts the TriangleEarthSociety daemon.
+    ./src/TriangleEarthSociety-cli --help # Outputs a list of command-line options.
+    ./src/TriangleEarthSociety-cli help # Outputs a list of RPC commands when the daemon is running.
 
 Using Qt Creator as IDE
 ------------------------
-You can use Qt Creator as an IDE, for happy development.
+You can use Qt Creator as an IDE, for TriangleEarthSociety development.
 Download and install the community edition of [Qt Creator](https://www.qt.io/download/).
 Uncheck everything except Qt Creator during the installation process.
 
 1. Make sure you installed everything through Homebrew mentioned above
 2. Do a proper ./configure --enable-debug
 3. In Qt Creator do "New Project" -> Import Project -> Import Existing Project
-4. Enter "happy-qt" as project name, enter src/qt as location
+4. Enter "TriangleEarthSociety-qt" as project name, enter src/qt as location
 5. Leave the file selection as it is
 6. Confirm the "summary page"
 7. In the "Projects" tab select "Manage Kits..."

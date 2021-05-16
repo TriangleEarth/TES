@@ -1483,7 +1483,7 @@ void ThreadMapPort()
             }
         }
 
-        std::string strDesc = "happy " + FormatFullVersion();
+        std::string strDesc = "TriangleEarthSociety " + FormatFullVersion();
 
         try {
             while (true) {

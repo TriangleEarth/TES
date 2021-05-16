@@ -80,12 +80,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -211,7 +211,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR happyS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TriangleEarthSocietyS&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <location line="-56"/>
-        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your happys from being stolen by malware infecting your computer.</source>
+        <source>%1 will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your TriangleEarthSocietys from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -430,8 +430,8 @@
     </message>
     <message>
         <location line="-510"/>
-        <source>Send coins to a happy address</source>
-        <translation>Send coins to a happy address</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Send coins to a TriangleEarthSociety address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -460,8 +460,8 @@
     </message>
     <message>
         <location line="+516"/>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <location line="-741"/>
@@ -495,13 +495,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Sign messages with your happy addresses to prove you own them</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Sign messages with your TriangleEarthSociety addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Verify messages to ensure they were signed with specified happy addresses</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -525,7 +525,7 @@
     </message>
     <message>
         <location line="-158"/>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a happy: URI or payment request</source>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -550,10 +550,10 @@
     </message>
     <message numerus="yes">
         <location line="+356"/>
-        <source>%n active connection(s) to happy network</source>
+        <source>%n active connection(s) to TriangleEarthSociety network</source>
         <translation>
-            <numerusform>%n active connection to happy network</numerusform>
-            <numerusform>%n active connections to happy network</numerusform>
+            <numerusform>%n active connection to TriangleEarthSociety network</numerusform>
+            <numerusform>%n active connections to TriangleEarthSociety network</numerusform>
         </translation>
     </message>
     <message>
@@ -611,7 +611,7 @@
     </message>
     <message>
         <location line="-440"/>
-        <source>Show the %1 help message to get a list with possible happy command-line options</source>
+        <source>Show the %1 help message to get a list with possible TriangleEarthSociety command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -691,7 +691,7 @@
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+534"/>
-        <source>A fatal error occurred. happy can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. TriangleEarthSociety can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -934,7 +934,7 @@
     </message>
     <message>
         <location line="+71"/>
-        <source>The entered address &quot;%1&quot; is not a valid happy address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid TriangleEarthSociety address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1094,8 +1094,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+20"/>
-        <source>happy</source>
-        <translation type="unfinished">happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation type="unfinished">TriangleEarthSociety</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1109,7 +1109,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>%1 will download and store a copy of the happy block chain.</source>
+        <source>%1 will download and store a copy of the TriangleEarthSociety block chain.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1153,12 +1153,12 @@
     </message>
     <message>
         <location line="+119"/>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the happy network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the TriangleEarthSociety network, as detailed below.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+19"/>
-        <source>Attempting to spend happys that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <source>Attempting to spend TriangleEarthSocietys that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1376,8 +1376,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1386,7 +1386,7 @@
     </message>
     <message>
         <location line="+17"/>
-        <source>Connect to the happy network through a SOCKS5 proxy.</source>
+        <source>Connect to the TriangleEarthSociety network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1434,7 +1434,7 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the happy network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the TriangleEarthSociety network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1579,8 +1579,8 @@
     <message>
         <location line="+62"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1677,7 +1677,7 @@
     </message>
     <message>
         <location line="-402"/>
-        <source>Cannot start happy: click-to-pay handler</source>
+        <source>Cannot start TriangleEarthSociety: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1699,7 +1699,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid happy address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid TriangleEarthSociety address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1821,7 +1821,7 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+130"/>
-        <source>Enter a happy address (e.g. %1)</source>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2407,7 +2407,7 @@
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the happy network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the TriangleEarthSociety network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2705,7 +2705,7 @@
     <message>
         <location line="+84"/>
         <location line="+13"/>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for happy transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for TriangleEarthSociety transactions than the network can process.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2921,7 +2921,7 @@
     </message>
     <message>
         <location line="+101"/>
-        <source>Warning: Invalid happy address</source>
+        <source>Warning: Invalid TriangleEarthSociety address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2976,7 +2976,7 @@
     </message>
     <message>
         <location line="+39"/>
-        <source>The happy address to send the payment to</source>
+        <source>The TriangleEarthSociety address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3003,7 +3003,7 @@
     </message>
     <message>
         <location line="-1021"/>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less happys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less TriangleEarthSocietys than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3033,7 +3033,7 @@
     </message>
     <message>
         <location line="+47"/>
-        <source>A message that was attached to the happy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the happy network.</source>
+        <source>A message that was attached to the TriangleEarthSociety: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the TriangleEarthSociety network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3090,12 +3090,12 @@
     </message>
     <message>
         <location line="+6"/>
-        <source>You can sign messages/agreements with your addresses to prove you can receive happys sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive TriangleEarthSocietys sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The happy address to sign the message with</source>
+        <source>The TriangleEarthSociety address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3137,8 +3137,8 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this happy address</source>
-        <translation>Sign the message to prove you own this happy address</translation>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
+        <translation>Sign the message to prove you own this TriangleEarthSociety address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3168,13 +3168,13 @@
     </message>
     <message>
         <location line="+21"/>
-        <source>The happy address the message was signed with</source>
+        <source>The TriangleEarthSociety address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Verify the message to ensure it was signed with the specified happy address</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4066,8 +4066,8 @@
     </message>
     <message>
         <location line="-384"/>
-        <source>happy Core</source>
-        <translation type="unfinished">happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation type="unfinished">TriangleEarthSociety Core</translation>
     </message>
     <message>
         <location line="+1"/>

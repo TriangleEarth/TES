@@ -142,8 +142,8 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Trimite monedele către o adresă happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Trimite monedele către o adresă TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -166,8 +166,8 @@
         <translation>&amp;Verifică mesajul...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -194,12 +194,12 @@
         <translation>Criptează cheile private care aparțin portofelului tău.</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Semnează mesajele cu adresa ta de happy pentru a face dovada că îți aparțin.</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Semnează mesajele cu adresa ta de TriangleEarthSociety pentru a face dovada că îți aparțin.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de happy specificată.</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de TriangleEarthSociety specificată.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -214,12 +214,12 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și happy: URIs)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și TriangleEarthSociety: URIs)</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Deschide un happy: URI sau cerere de plată</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Deschide un TriangleEarthSociety: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -748,8 +748,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>Information</source>

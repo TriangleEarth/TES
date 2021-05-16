@@ -62,7 +62,7 @@
         <translation>آدرس های گیرنده</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>اینها آدرس های شما برای فرستادن پرداخت هاست. همیشه قبل از فرستادن سکه ها مقدار و آدرس دریافت کننده را چک کنید.</translation>
     </message>
     <message>
@@ -298,8 +298,8 @@
         <translation>بازنشانی بلوک‌ها روی دیسک...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>ارسال وجه به نشانی happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>ارسال وجه به نشانی TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -322,8 +322,8 @@
         <translation>با&amp;زبینی پیام...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -350,12 +350,12 @@
         <translation>رمزنگاری کلیدهای خصوصی متعلق به کیف پول شما</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی happy خود امضا کنید</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی TriangleEarthSociety خود امضا کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی happy مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی TriangleEarthSociety مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -374,8 +374,8 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس happy)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس TriangleEarthSociety)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -386,16 +386,16 @@
         <translation>نمایش لیست آدرس های دریافت و لیبل ها</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>بازکردن یک happy: آدرس یا درخواست پرداخت</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>بازکردن یک TriangleEarthSociety: آدرس یا درخواست پرداخت</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>گزینه‌های خط‌فرمان</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to happy network</source>
-        <translation><numerusform>%n ارتباط فعال با شبکهٔ happy</numerusform></translation>
+        <source>%n active connection(s) to TriangleEarthSociety network</source>
+        <translation><numerusform>%n ارتباط فعال با شبکهٔ TriangleEarthSociety</numerusform></translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
@@ -642,8 +642,8 @@
         <translation>ویرایش آدرس قرستنده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid happy address.</source>
-        <translation>نشانی وارد شده "%1" یک نشانی معتبر happy نیست.</translation>
+        <source>The entered address "%1" is not a valid TriangleEarthSociety address.</source>
+        <translation>نشانی وارد شده "%1" یک نشانی معتبر TriangleEarthSociety نیست.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -852,8 +852,8 @@
         <translation>استخراج</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>باز کردن خودکار درگاه شبکهٔ happy روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>باز کردن خودکار درگاه شبکهٔ TriangleEarthSociety روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -951,8 +951,8 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ happy همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ TriangleEarthSociety همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1016,8 +1016,8 @@
         <translation>مبلغ</translation>
     </message>
     <message>
-        <source>Enter a happy address (e.g. %1)</source>
-        <translation>یک آدرس happy وارد کنید (مثلاً %1)</translation>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
+        <translation>یک آدرس TriangleEarthSociety وارد کنید (مثلاً %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1476,8 +1476,8 @@
         <translation>این یک پرداخت عادی است</translation>
     </message>
     <message>
-        <source>The happy address to send the payment to</source>
-        <translation>نشانی happy برای ارسال پرداخت به آن</translation>
+        <source>The TriangleEarthSociety address to send the payment to</source>
+        <translation>نشانی TriangleEarthSociety برای ارسال پرداخت به آن</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1529,8 +1529,8 @@
         <translation>ا&amp;مضای پیام</translation>
     </message>
     <message>
-        <source>The happy address to sign the message with</source>
-        <translation>نشانی happy برای امضاء پیغام با آن</translation>
+        <source>The TriangleEarthSociety address to sign the message with</source>
+        <translation>نشانی TriangleEarthSociety برای امضاء پیغام با آن</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1561,7 +1561,7 @@
         <translation>امضای فعلی را به حافظهٔ سیستم کپی کن</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>برای اثبات تعلق این نشانی به شما، پیام را امضا کنید</translation>
     </message>
     <message>
@@ -1581,12 +1581,12 @@
         <translation>&amp;شناسایی پیام</translation>
     </message>
     <message>
-        <source>The happy address the message was signed with</source>
-        <translation>نشانی happy که پیغام با آن امضاء شده</translation>
+        <source>The TriangleEarthSociety address the message was signed with</source>
+        <translation>نشانی TriangleEarthSociety که پیغام با آن امضاء شده</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی happy مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی TriangleEarthSociety مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1702,8 +1702,8 @@
         <translation>اجرا در پشت زمینه به‌صورت یک سرویس و پذیرش دستورات</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation> هسته happy </translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation> هسته TriangleEarthSociety </translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -114,8 +114,8 @@
         <translation>Recreans indicem frustorum in disco...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Mitte nummos ad inscriptionem happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Mitte nummos ad inscriptionem TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -138,8 +138,8 @@
         <translation>&amp;Verifica nuntium...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -166,12 +166,12 @@
         <translation>Cifra claves privatas quae cassidili tui sunt</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus happy ut demonstres te eas possidere</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus TriangleEarthSociety ut demonstres te eas possidere</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus happy</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus TriangleEarthSociety</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -346,8 +346,8 @@
         <translation>Cassidile</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis happy in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis TriangleEarthSociety in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -425,8 +425,8 @@
         <translation>Schema</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete happy postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete TriangleEarthSociety postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -671,8 +671,8 @@
         <translation>Copia signationem in latibulum systematis</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem happy a te possessa esse</translation>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem TriangleEarthSociety a te possessa esse</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -691,8 +691,8 @@
         <translation>&amp;Verifica Nuntium</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione happy</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -768,8 +768,8 @@
         <translation>Operare infere sicut daemon et mandata accipe</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Nucleus</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Nucleus</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -62,12 +62,12 @@
         <translation>Адреси за получаване</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Това са адресите на получателите на плащания. Винаги проверявайте размера на сумата и адреса на получателя, преди да изпратите монети.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са Вашите happy адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са Вашите TriangleEarthSociety адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,7 +168,7 @@
         <translation>Потвърдете на шифрирането на портфейла</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR happyS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR TriangleEarthSocietyS&lt;/b&gt;!</source>
         <translation>ВНИМАНИЕ: Ако шифрирате вашият портфейл и изгубите паролата си, &lt;b&gt;ЩЕ ИЗГУБИТЕ ВСИЧКИТЕ СИ БИТКОИНИ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -330,7 +330,7 @@
         <translation>Повторно индексиране на блоковете на диска...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
+        <source>Send coins to a TriangleEarthSociety address</source>
         <translation>Изпращане към Биткоин адрес</translation>
     </message>
     <message>
@@ -354,7 +354,7 @@
         <translation>&amp;Проверка на съобщение...</translation>
     </message>
     <message>
-        <source>happy</source>
+        <source>TriangleEarthSociety</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -382,12 +382,12 @@
         <translation>Шифроване на личните ключове,които принадлежат на портфейла Ви.</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Пишете съобщения със своя happy адрес за да докажете,че е ваш.</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Пишете съобщения със своя TriangleEarthSociety адрес за да докажете,че е ваш.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените happy адреси.</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените TriangleEarthSociety адреси.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -406,8 +406,8 @@
         <translation>Раздели</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Изискване на плащания(генерира QR кодове и happy: URIs)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Изискване на плащания(генерира QR кодове и TriangleEarthSociety: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -418,8 +418,8 @@
         <translation>Покажи списък с използваните адреси и имена.</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Отворете happy: URI  или заявка за плащане</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Отворете TriangleEarthSociety: URI  или заявка за плащане</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -462,8 +462,8 @@
         <translation>Синхронизиран</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible happy command-line options</source>
-        <translation>Покажи %1 помощно съобщение за да получиш лист с възможни happy команди</translation>
+        <source>Show the %1 help message to get a list with possible TriangleEarthSociety command-line options</source>
+        <translation>Покажи %1 помощно съобщение за да получиш лист с възможни TriangleEarthSociety команди</translation>
     </message>
     <message>
         <source>%1 client</source>
@@ -706,7 +706,7 @@
         <translation>Редактиране на адрес за изпращане</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid happy address.</source>
+        <source>The entered address "%1" is not a valid TriangleEarthSociety address.</source>
         <translation>"%1" не е валиден Биткоин адрес.</translation>
     </message>
     <message>
@@ -928,16 +928,16 @@
         <translation>&amp;Похарчете непотвърденото ресто</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично отваряне на входящия happy порт. Работи само с рутери поддържащи UPnP.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматично отваряне на входящия TriangleEarthSociety порт. Работи само с рутери поддържащи UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Отваряне на входящия порт чрез &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the happy network through a SOCKS5 proxy.</source>
-        <translation>Свързване с happy мрежата чрез SOCKS5  прокси.</translation>
+        <source>Connect to the TriangleEarthSociety network through a SOCKS5 proxy.</source>
+        <translation>Свързване с TriangleEarthSociety мрежата чрез SOCKS5  прокси.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1031,7 +1031,7 @@
         <translation>Формуляр</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
         <translation>Текущата информация на екрана може да не е актуална. Вашият портфейл ще се синхронизира автоматично с мрежата на Биткоин, щом поне една връзката с нея се установи; този процес все още не е приключил.</translation>
     </message>
     <message>
@@ -1086,8 +1086,8 @@
         <translation>Възникна грешка по време назаявката за плащане</translation>
     </message>
     <message>
-        <source>Cannot start happy: click-to-pay handler</source>
-        <translation>happy не можe да се стартира: click-to-pay handler</translation>
+        <source>Cannot start TriangleEarthSociety: click-to-pay handler</source>
+        <translation>TriangleEarthSociety не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1160,8 +1160,8 @@
         <translation>Сума</translation>
     </message>
     <message>
-        <source>Enter a happy address (e.g. %1)</source>
-        <translation>Въведете happy адрес (например: %1)</translation>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
+        <translation>Въведете TriangleEarthSociety адрес (например: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1713,8 +1713,8 @@
         <translation>Заявката за плащане е изтекла.</translation>
     </message>
     <message>
-        <source>Warning: Invalid happy address</source>
-        <translation>Внимание: Невалиден happy адрес</translation>
+        <source>Warning: Invalid TriangleEarthSociety address</source>
+        <translation>Внимание: Невалиден TriangleEarthSociety адрес</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -1833,7 +1833,7 @@
         <translation>Копиране на текущия подпис</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
         <translation>Подпишете съобщение като доказателство, че притежавате определен адрес</translation>
     </message>
     <message>
@@ -1849,7 +1849,7 @@
         <translation>&amp;Провери</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
         <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Биткоин адрес</translation>
     </message>
     <message>
@@ -2370,8 +2370,8 @@
         <translation>Въведете Ваш публичен адрес</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy ядро</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety ядро</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>

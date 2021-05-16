@@ -1,5 +1,5 @@
 ---
-name: "happy-dmg-signer"
+name: "TriangleEarthSociety-dmg-signer"
 suites:
 - "trusty"
 architectures:
@@ -7,10 +7,10 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/happy-project/happy-detached-sigs.git"
+- "url": "https://github.com/TriangleEarthSociety-project/TriangleEarthSociety-detached-sigs.git"
   "dir": "signature"
 files:
-- "happy-osx-unsigned.tar.gz"
+- "TriangleEarthSociety-osx-unsigned.tar.gz"
 script: |
   WRAP_DIR=$HOME/wrapped
   mkdir -p ${WRAP_DIR}
@@ -27,8 +27,8 @@ script: |
     chmod +x ${WRAP_DIR}/${prog}
   done
 
-  UNSIGNED=happy-osx-unsigned.tar.gz
-  SIGNED=happy-osx-signed.dmg
+  UNSIGNED=TriangleEarthSociety-osx-unsigned.tar.gz
+  SIGNED=TriangleEarthSociety-osx-signed.dmg
 
   tar -xf ${UNSIGNED}
   OSX_VOLNAME="$(cat osx_volname)"

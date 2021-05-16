@@ -648,7 +648,7 @@ git merge commit are mentioned.
 - #6619 `4862708` depends: bump miniupnpc and ccache (Michael Ford)
 - #6801 `ae69a75` [depends] Latest config.guess and config.sub (Michael Ford)
 - #6938 `193f7b5` build: If both Qt4 and Qt5 are installed, use Qt5 (Wladimir J. van der Laan)
-- #7092 `348b281` build: Set osx permissions in the dmg to make Gatekeeper happy (Cory Fields)
+- #7092 `348b281` build: Set osx permissions in the dmg to make Gatekeeper TriangleEarthSociety (Cory Fields)
 - #6980 `eccd671` [Depends] Bump Boost, miniupnpc, ccache & zeromq (Michael Ford)
 - #7424 `aa26ee0` Add security/export checks to gitian and fix current failures (Cory Fields)
 

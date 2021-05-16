@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>happy</source>
+        <source>TriangleEarthSociety</source>
         <translation>Биткоин</translation>
     </message>
     <message>

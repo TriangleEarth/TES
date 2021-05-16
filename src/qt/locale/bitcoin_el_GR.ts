@@ -62,12 +62,12 @@
         <translation>Διευθύνσεις λήψης</translation>
     </message>
     <message>
-        <source>These are your happy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Αυτές είναι οι happy διευθύνσεις σας για να στέλνετε πληρωμές. Να ελέγχετε πάντα το ποσό, καθώς και τη διεύθυνση παραλήπτη πριν στείλετε νομίσματα.</translation>
+        <source>These are your TriangleEarthSociety addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Αυτές είναι οι TriangleEarthSociety διευθύνσεις σας για να στέλνετε πληρωμές. Να ελέγχετε πάντα το ποσό, καθώς και τη διεύθυνση παραλήπτη πριν στείλετε νομίσματα.</translation>
     </message>
     <message>
-        <source>These are your happy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Αυτές είναι οι happy διευθύνσεις σας για να λαμβάνετε πληρωμές. Προτείνετε να χρησιμοποιείτε μια νέα διεύθυνση παραλήπτη για κάθε συναλλαγή.</translation>
+        <source>These are your TriangleEarthSociety addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Αυτές είναι οι TriangleEarthSociety διευθύνσεις σας για να λαμβάνετε πληρωμές. Προτείνετε να χρησιμοποιείτε μια νέα διεύθυνση παραλήπτη για κάθε συναλλαγή.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -238,8 +238,8 @@
         <translation>Φόρτωση ευρετηρίου μπλοκ στον σκληρο δισκο...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -262,8 +262,8 @@
         <translation>&amp;Επιβεβαίωση μηνύματος</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -290,12 +290,12 @@
         <translation>Κρυπτογραφήστε τα ιδιωτικά κλειδιά που ανήκουν στο πορτοφόλι σας </translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
         <translation>Υπογράψτε ένα μήνυμα για να βεβαιώσετε πως είστε ο κάτοχος αυτής της διεύθυνσης</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση happy</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση TriangleEarthSociety</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -314,8 +314,8 @@
         <translation>Εργαλειοθήκη καρτελών</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις happy: )</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις TriangleEarthSociety: )</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -326,8 +326,8 @@
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Άνοιγμα happy: URI αίτησης πληρωμής</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Άνοιγμα TriangleEarthSociety: URI αίτησης πληρωμής</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -736,16 +736,16 @@
         <translation>&amp;Ξόδεμα μη επικυρωμένων ρέστων</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Αυτόματο άνοιγμα των θυρών happy στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Αυτόματο άνοιγμα των θυρών TriangleEarthSociety στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Απόδοση θυρών με χρήστη &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the happy network through a SOCKS5 proxy.</source>
-        <translation>Σύνδεση στο happy δίκτυο μέσω διαμεσολαβητή SOCKS5 (π.χ. για σύνδεση μέσω Tor)</translation>
+        <source>Connect to the TriangleEarthSociety network through a SOCKS5 proxy.</source>
+        <translation>Σύνδεση στο TriangleEarthSociety δίκτυο μέσω διαμεσολαβητή SOCKS5 (π.χ. για σύνδεση μέσω Tor)</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -840,8 +840,8 @@
         <translation>Φόρμα</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο happy μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο TriangleEarthSociety μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -921,8 +921,8 @@
         <translation>Ποσό</translation>
     </message>
     <message>
-        <source>Enter a happy address (e.g. %1)</source>
-        <translation>Εισάγετε μια διεύθυνση happy (π.χ. %1)</translation>
+        <source>Enter a TriangleEarthSociety address (e.g. %1)</source>
+        <translation>Εισάγετε μια διεύθυνση TriangleEarthSociety (π.χ. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1389,8 +1389,8 @@
         <translation>Αυτή είναι μια απλή πληρωμή.</translation>
     </message>
     <message>
-        <source>The happy address to send the payment to</source>
-        <translation>Η διεύθυνση happy που θα σταλεί η πληρωμή</translation>
+        <source>The TriangleEarthSociety address to send the payment to</source>
+        <translation>Η διεύθυνση TriangleEarthSociety που θα σταλεί η πληρωμή</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1446,8 +1446,8 @@
         <translation>&amp;Υπογραφή Μηνύματος</translation>
     </message>
     <message>
-        <source>The happy address to sign the message with</source>
-        <translation>Διεύθυνση happy που θα σταλεί το μήνυμα</translation>
+        <source>The TriangleEarthSociety address to sign the message with</source>
+        <translation>Διεύθυνση TriangleEarthSociety που θα σταλεί το μήνυμα</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1478,8 +1478,8 @@
         <translation>Αντέγραφη της επιλεγμενης διεύθυνσης στο πρόχειρο του συστηματος</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση happy</translation>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1498,12 +1498,12 @@
         <translation>&amp;Επιβεβαίωση μηνύματος</translation>
     </message>
     <message>
-        <source>The happy address the message was signed with</source>
-        <translation>Διεύθυνση happy η οποία το μήνυμα έχει υπογραφεί</translation>
+        <source>The TriangleEarthSociety address the message was signed with</source>
+        <translation>Διεύθυνση TriangleEarthSociety η οποία το μήνυμα έχει υπογραφεί</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση happy</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1715,8 +1715,8 @@
         <translation>Εκτέλεση στο παρασκήνιο κι αποδοχή εντολών</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>happy Core</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>TriangleEarthSociety Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -130,8 +130,8 @@
         <translation>Reindexando bloques no disco...</translation>
     </message>
     <message>
-        <source>Send coins to a happy address</source>
-        <translation>Enviar moedas a unha dirección happy</translation>
+        <source>Send coins to a TriangleEarthSociety address</source>
+        <translation>Enviar moedas a unha dirección TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -154,8 +154,8 @@
         <translation>&amp;Verificar mensaxe...</translation>
     </message>
     <message>
-        <source>happy</source>
-        <translation>happy</translation>
+        <source>TriangleEarthSociety</source>
+        <translation>TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -182,12 +182,12 @@
         <translation>Encriptar as claves privadas que pertencen ao teu moedeiro</translation>
     </message>
     <message>
-        <source>Sign messages with your happy addresses to prove you own them</source>
-        <translation>Asina mensaxes coas túas direccións happy para probar que te pertencen</translation>
+        <source>Sign messages with your TriangleEarthSociety addresses to prove you own them</source>
+        <translation>Asina mensaxes coas túas direccións TriangleEarthSociety para probar que te pertencen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified happy addresses</source>
-        <translation>Verificar mensaxes para asegurar que foron asinados con direccións happy dadas.</translation>
+        <source>Verify messages to ensure they were signed with specified TriangleEarthSociety addresses</source>
+        <translation>Verificar mensaxes para asegurar que foron asinados con direccións TriangleEarthSociety dadas.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -206,8 +206,8 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and happy: URIs)</source>
-        <translation>Solicitar pagos (xenera códigos QR e happy: URIs)</translation>
+        <source>Request payments (generates QR codes and TriangleEarthSociety: URIs)</source>
+        <translation>Solicitar pagos (xenera códigos QR e TriangleEarthSociety: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -218,8 +218,8 @@
         <translation>Amosar a listaxe de etiquetas e direccións para recibir empregadas</translation>
     </message>
     <message>
-        <source>Open a happy: URI or payment request</source>
-        <translation>Abrir un happy: URI ou solicitude de pago</translation>
+        <source>Open a TriangleEarthSociety: URI or payment request</source>
+        <translation>Abrir un TriangleEarthSociety: URI ou solicitude de pago</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -466,8 +466,8 @@
         <translation>Moedeiro</translation>
     </message>
     <message>
-        <source>Automatically open the happy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente o porto do cliente happy no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
+        <source>Automatically open the TriangleEarthSociety client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente o porto do cliente TriangleEarthSociety no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -545,8 +545,8 @@
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the happy network after a connection is established, but this process has not completed yet.</source>
-        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede happy despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the TriangleEarthSociety network after a connection is established, but this process has not completed yet.</source>
+        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede TriangleEarthSociety despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -927,8 +927,8 @@
         <translation>Copiar a sinatura actual ao portapapeis do sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this happy address</source>
-        <translation>Asina a mensaxe para probar que posees esta dirección happy</translation>
+        <source>Sign the message to prove you own this TriangleEarthSociety address</source>
+        <translation>Asina a mensaxe para probar que posees esta dirección TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -947,8 +947,8 @@
         <translation>&amp;Verificar Mensaxe</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified happy address</source>
-        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección happy especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified TriangleEarthSociety address</source>
+        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección TriangleEarthSociety especificada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1028,8 +1028,8 @@
         <translation>Executar no fondo como un demo e aceptar comandos</translation>
     </message>
     <message>
-        <source>happy Core</source>
-        <translation>Core de happy</translation>
+        <source>TriangleEarthSociety Core</source>
+        <translation>Core de TriangleEarthSociety</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
