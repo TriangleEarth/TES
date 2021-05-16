@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: happy
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: happy
+  template:
+    metadata:
+      labels:
+        app: happy
+        version: v0.15
+    spec:
+      containers:
+      - name: happy
+        image: toolboc/happy
+        ports:
+        - containerPort: 35222
+          name: happy
+          protocol: TCP
