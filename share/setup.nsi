@@ -10,11 +10,11 @@ SetCompressor /SOLID lzma
 !define URL https://hppy.be/
 
 # MUI Symbol Definitions
-!define MUI_ICON "/home/jacob/TES/share/pixmaps/bitcoin.ico"
-!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/jacob/TES/share/pixmaps/nsis-wizard.bmp"
+!define MUI_ICON "/home/jacob/TES-W/share/pixmaps/bitcoin.ico"
+!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/jacob/TES-W/share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
-!define MUI_HEADERIMAGE_BITMAP "/home/jacob/TES/share/pixmaps/nsis-header.bmp"
+!define MUI_HEADERIMAGE_BITMAP "/home/jacob/TES-W/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
@@ -22,7 +22,7 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_DEFAULTFOLDER "TriangleEarthSociety Core"
 !define MUI_FINISHPAGE_RUN $INSTDIR\TriangleEarthSociety-qt.exe
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/jacob/TES/share/pixmaps/nsis-wizard.bmp"
+!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/jacob/TES-W/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
 # Included files
@@ -48,7 +48,7 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile /home/jacob/TES/TriangleEarthSociety-${VERSION}-win64-setup.exe
+OutFile /home/jacob/TES-W/TriangleEarthSociety-${VERSION}-win64-setup.exe
 !if "64" == "64"
 InstallDir $PROGRAMFILES64\TriangleEarthSociety
 !else
@@ -73,14 +73,14 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /home/jacob/TES/release/TriangleEarthSociety-qt.exe
-    File /oname=COPYING.txt /home/jacob/TES/COPYING
-    File /oname=readme.txt /home/jacob/TES/doc/README_windows.txt
+    File /home/jacob/TES-W/release/TriangleEarthSociety-qt.exe
+    File /oname=COPYING.txt /home/jacob/TES-W/COPYING
+    File /oname=readme.txt /home/jacob/TES-W/doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File /home/jacob/TES/release/TriangleEarthSocietyd.exe
-    File /home/jacob/TES/release/TriangleEarthSociety-cli.exe
+    File /home/jacob/TES-W/release/TriangleEarthSocietyd.exe
+    File /home/jacob/TES-W/release/TriangleEarthSociety-cli.exe
     SetOutPath $INSTDIR\doc
-    File /r /home/jacob/TES/doc\*.*
+    File /r /home/jacob/TES-W/doc\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 SectionEnd

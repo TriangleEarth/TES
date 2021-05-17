@@ -118,9 +118,9 @@ bench/bench_bench_TriangleEarthSociety-verify_script.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/ext/aligned_buffer.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_map.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_multimap.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/cat.hpp \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/config/config.hpp \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/stringize.hpp \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/cat.hpp \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/config/config.hpp \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/stringize.hpp \
  key.h pubkey.h hash.h crypto/ripemd160.h crypto/sha256.h prevector.h \
  /usr/share/mingw-w64/include/assert.h \
  /usr/share/mingw-w64/include/string.h \
@@ -435,11 +435,11 @@ bench/bench.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_multimap.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/cat.hpp:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/cat.hpp:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/config/config.hpp:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/config/config.hpp:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/stringize.hpp:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/boost/preprocessor/stringize.hpp:
 
 key.h:
 

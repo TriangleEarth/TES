@@ -1,10 +1,10 @@
 qt/test/qt_test_test_TriangleEarthSociety_qt-moc_compattests.o: \
  qt/test/moc_compattests.cpp qt/test/compattests.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/cstddef \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -18,11 +18,11 @@ qt/test/qt_test_test_TriangleEarthSociety_qt-moc_compattests.o: \
  /usr/share/mingw-w64/include/vadefs.h \
  /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
  /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/utility \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_relops.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_pair.h \
@@ -71,30 +71,30 @@ qt/test/qt_test_test_TriangleEarthSociety_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/memoryfwd.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/uniform_int_dist.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/limits \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/atomic \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/atomic_base.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/stdint.h \
  /usr/share/mingw-w64/include/stdint.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/atomic_lockfree_defines.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/stdarg.h \
@@ -174,11 +174,11 @@ qt/test/qt_test_test_TriangleEarthSociety_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/istream \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/istream.tcc \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stream_iterator.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/numeric \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_numeric.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/list \
@@ -186,14 +186,14 @@ qt/test/qt_test_test_TriangleEarthSociety_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/allocated_ptr.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/ext/aligned_buffer.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/list.tcc \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/vector \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_uninitialized.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_vector.h \
@@ -207,56 +207,56 @@ qt/test/qt_test_test_TriangleEarthSociety_qt-moc_compattests.o: \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/uses_allocator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/invoke.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_multimap.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetaobject.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetaobject.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/set \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_set.h \
  /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_multiset.h
 
 qt/test/compattests.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/cstddef:
 
@@ -284,15 +284,15 @@ qt/test/compattests.h:
 
 /usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/utility:
 
@@ -390,25 +390,25 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/limits:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_cxx11.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/atomic:
 
@@ -420,23 +420,23 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/atomic_lockfree_defines.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qversiontagging.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/share/mingw-w64/include/string.h:
 
@@ -596,15 +596,15 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stream_iterator.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qhashfunctions.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/numeric:
 
@@ -620,21 +620,21 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/list.tcc:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/vector:
 
@@ -662,75 +662,75 @@ qt/test/compattests.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/bits/stl_multimap.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/QTest:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtest_global.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestcase.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetaobject.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetaobject.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qvariant.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmap.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsharedpointer_impl.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qtemporarydir.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qdir.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfileinfo.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfile.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qfiledevice.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qiodevice.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/QScopedPointer:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestdata.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmark.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qbenchmarkmetric.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qurl.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qpoint.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qsize.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qrect.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qmargins.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtTest/qtestsystem.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreapplication.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qcoreevent.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qeventloop.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/QtCore/qelapsedtimer.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/7.3-posix/include/c++/set:
 

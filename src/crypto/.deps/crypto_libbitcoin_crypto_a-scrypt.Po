@@ -25,9 +25,9 @@ crypto/crypto_libbitcoin_crypto_a-scrypt.o: crypto/scrypt.cpp \
  /usr/share/mingw-w64/include/stddef.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
- /home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
+ /home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h
 
 crypto/scrypt.h:
 
@@ -81,8 +81,8 @@ crypto/scrypt.h:
 
 /usr/share/mingw-w64/include/sec_api/string_s.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/openssl/sha.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
 
-/home/jacob/TES/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
+/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:

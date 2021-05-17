@@ -161,7 +161,7 @@ old_postuninstall_cmds=""
 lock_old_archive_extraction=no
 
 # A C compiler.
-LTCC="/home/jacob/TES/depends/x86_64-w64-mingw32/share/../native/bin/ccache x86_64-w64-mingw32-gcc"
+LTCC="/home/jacob/TES-W/depends/x86_64-w64-mingw32/share/../native/bin/ccache x86_64-w64-mingw32-gcc"
 
 # LTCC compiler flags.
 LTCFLAGS="-pipe -O2 "

@@ -30,6 +30,6 @@ RUN make
 RUN make install
 
 #open service port
-EXPOSE 35222
+EXPOSE 35223
 
 CMD ["TriangleEarthSocietyd", "--printtoconsole"]

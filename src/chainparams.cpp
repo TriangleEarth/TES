@@ -80,12 +80,12 @@ public:
         consensus.BIP65Height = 918684; // bab3041e8977e0dc3eeff63fe707b92bde1dd449d8efafb248c27c8264cc311a
         consensus.BIP66Height = 811879; // 7aceee012833fa8952f8835d8b1b3ae233cd6ab08fdb27a771d2bd7bdc491894
         consensus.powLimit = uint256S("00000fffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"); 
-        consensus.nPowTargetTimespan = 3.5 * 24 * 60 * 60; // 3.5 days
-        consensus.nPowTargetSpacing = 2.5 * 60;
+        consensus.nPowTargetTimespan =  10 * 60;
+        consensus.nPowTargetSpacing = 5 * 60;
         consensus.fPowAllowMinDifficultyBlocks = false;
         consensus.fPowNoRetargeting = false;
-        consensus.nRuleChangeActivationThreshold = 6048; // 75% of 8064
-        consensus.nMinerConfirmationWindow = 8064; // nPowTargetTimespan / nPowTargetSpacing * 4
+        consensus.nRuleChangeActivationThreshold = 2; // 75% of 8
+        consensus.nMinerConfirmationWindow = 8; // nPowTargetTimespan / nPowTargetSpacing * 4
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 1199145601; // January 1, 2008
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nTimeout = 1230767999; // December 31, 2008
@@ -111,11 +111,11 @@ public:
          * The characters are rarely used upper ASCII, not valid as UTF-8, and produce
          * a large 32-bit integer with any alignment.
          */
-        pchMessageStart[0] = 0xd0;
-        pchMessageStart[1] = 0xe1;
-        pchMessageStart[2] = 0xf5;
-        pchMessageStart[3] = 0xec;
-        nDefaultPort = 35222;
+        pchMessageStart[0] = 0x54;
+        pchMessageStart[1] = 0x54;
+        pchMessageStart[2] = 0x45;
+        pchMessageStart[3] = 0x53;
+        nDefaultPort = 35223;
         nPruneAfterHeight = 100000;
 
         genesis = CreateGenesisBlock(1621044322, 2084696672, 0x1e0ffff0, 1, 50 * COIN);
@@ -127,18 +127,13 @@ public:
         vSeeds.emplace_back("104.41.227.200", true);
         vSeeds.emplace_back("40.83.18.120", true);
         vSeeds.emplace_back("85.83.142.98", true);
-        //vSeeds.emplace_back("seed-a.TriangleEarthSociety.loshan.co.uk", true);
-        //vSeeds.emplace_back("dnsseed.thrasher.io", true);
-        //vSeeds.emplace_back("dnsseed.TriangleEarthSocietytools.com", true);
-        //vSeeds.emplace_back("dnsseed.TriangleEarthSocietypool.org", true);
-        //vSeeds.emplace_back("dnsseed.koin-project.com", false);
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,40);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,65);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,50);
-        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,40);
-        base58Prefixes[EXT_PUBLIC_KEY] = {0xff, 0x88, 0xB2, 0x1E};
-        base58Prefixes[EXT_SECRET_KEY] = {0xff, 0x88, 0xAD, 0xE4};
+        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,65);
+        base58Prefixes[EXT_PUBLIC_KEY] = {0xff, 0x95, 0xB2, 0x1E};
+        base58Prefixes[EXT_SECRET_KEY] = {0xff, 0x95, 0xAD, 0xE4};
 
         vFixedSeeds = std::vector<SeedSpec6>(pnSeed6_main, pnSeed6_main + ARRAYLEN(pnSeed6_main));
 
@@ -199,8 +194,8 @@ public:
         consensus.nPowTargetSpacing = 2.5 * 60;
         consensus.fPowAllowMinDifficultyBlocks = true;
         consensus.fPowNoRetargeting = false;
-        consensus.nRuleChangeActivationThreshold = 1512; // 75% for testchains
-        consensus.nMinerConfirmationWindow = 2016; // nPowTargetTimespan / nPowTargetSpacing
+        consensus.nRuleChangeActivationThreshold = 2.5; // 75% for testchains
+        consensus.nMinerConfirmationWindow = 5; // nPowTargetTimespan / nPowTargetSpacing
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 1199145601; // January 1, 2008
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nTimeout = 1230767999; // December 31, 2008
@@ -228,18 +223,14 @@ public:
         nDefaultPort = 19335;
         nPruneAfterHeight = 1000;
 
-        genesis = CreateGenesisBlock(1486949366, 471301, 0x1e0ffff0, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1621044322, 2084696672, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0xd686c51a8ba8b81e4173096785e458253105e1a4d637fd7824893cd2691ee71f"));
-        assert(genesis.hashMerkleRoot == uint256S("0x805d8d176abe872f5cd40b558869a0d25ed02ae471fa33f80185443e5ca9cb40"));
+        assert(consensus.hashGenesisBlock == uint256S("0xf7cef1e137a92b5ce7a7aa0b8f77ba6baabad59234794a79a4a713a11d199201"));
+        assert(genesis.hashMerkleRoot == uint256S("0x2e6669ddf6c54cbde5192d004e75d880a12237e7b5870436dd2e6d429534bc81"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
         // nodes with support for servicebits filtering should be at the top
-        vSeeds.emplace_back("testnet-seed.TriangleEarthSocietytools.com", true);
-        vSeeds.emplace_back("seed-b.TriangleEarthSociety.loshan.co.uk", true);
-        vSeeds.emplace_back("dnsseed-testnet.thrasher.io", true);
-
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,111);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,196);
         base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,58);
@@ -255,13 +246,13 @@ public:
 
         checkpointData = (CCheckpointData) {
             {
-                {  0, uint256S("d686c51a8ba8b81e4173096785e458253105e1a4d637fd7824893cd2691ee71f")},
+                {  0, uint256S("0xf7cef1e137a92b5ce7a7aa0b8f77ba6baabad59234794a79a4a713a11d199201")},
             }
         };
 
         chainTxData = ChainTxData{
             // Data as of block 0 (height 0)
-            1486949366,
+            1621044322,
             0,
             0.0
         };
@@ -286,8 +277,8 @@ public:
         consensus.nPowTargetSpacing = 2.5 * 60;
         consensus.fPowAllowMinDifficultyBlocks = true;
         consensus.fPowNoRetargeting = true;
-        consensus.nRuleChangeActivationThreshold = 108; // 75% for testchains
-        consensus.nMinerConfirmationWindow = 144; // Faster than normal for regtest (144 instead of 2016)
+        consensus.nRuleChangeActivationThreshold = 1; // 75% for testchains
+        consensus.nMinerConfirmationWindow = 4; // Faster than normal for regtest (4 instead of 5)
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].bit = 28;
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nStartTime = 0;
         consensus.vDeployments[Consensus::DEPLOYMENT_TESTDUMMY].nTimeout = 999999999999ULL;
@@ -311,10 +302,10 @@ public:
         nDefaultPort = 19444;
         nPruneAfterHeight = 1000;
 
-        genesis = CreateGenesisBlock(1296688602, 0, 0x207fffff, 1, 50 * COIN);
+        genesis = CreateGenesisBlock(1621044322, 2084696672, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x2f2a3df80323d97e3fc6700da36761482389e5f8982ed2e0425420479e36928d"));
-        assert(genesis.hashMerkleRoot == uint256S("0x805d8d176abe872f5cd40b558869a0d25ed02ae471fa33f80185443e5ca9cb40"));
+        assert(consensus.hashGenesisBlock == uint256S("0xf7cef1e137a92b5ce7a7aa0b8f77ba6baabad59234794a79a4a713a11d199201"));
+        assert(genesis.hashMerkleRoot == uint256S("0x2e6669ddf6c54cbde5192d004e75d880a12237e7b5870436dd2e6d429534bc81"));
 
         vFixedSeeds.clear(); //!< Regtest mode doesn't have any fixed seeds.
         vSeeds.clear();      //!< Regtest mode doesn't have any DNS seeds.
@@ -325,12 +316,12 @@ public:
 
         checkpointData = (CCheckpointData) {
             {
-                {0, uint256S("2f2a3df80323d97e3fc6700da36761482389e5f8982ed2e0425420479e36928d")},
+                {0, uint256S("0xf7cef1e137a92b5ce7a7aa0b8f77ba6baabad59234794a79a4a713a11d199201")},
             }
         };
 
         chainTxData = ChainTxData{
-            0,
+            1621044322,
             0,
             0.0
         };
